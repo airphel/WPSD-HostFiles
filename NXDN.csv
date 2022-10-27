@@ -3263,7 +3263,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 3291,KD0OPS,Daren,Nerad,Sedalia,Missouri,United States
 3292,IZ1KGM,Gianni,None,Alessandria,Piedmont / Liguria / Aosta,Italy
 3293,HS1KOD,Chamnan,Kitsachoke,Bangbuathong,Nonthaburi,Thailand
-3294,AP2HD,Muhammad Hayat,Durrani,Islambad,None,Pakistan
+3294,AP2HD,Muhammad Hayat,Durrani,Islambad,All Regions,Pakistan
 3295,W9MHD,Muhammad,Durrani,Brentwood,Tennessee,United States
 3296,KA1TTZ,George M,Gogas III,Ayer,Massachusetts,United States
 3297,TA8WTF,Mahmut,Güneş,Gaziantep,Southeastern Anatolia Region,Turkey
@@ -3836,6 +3836,25 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 3865,EA1FPQ,Francisco,Rodriguez,Naron,A Coruna,Spain
 3866,PA7LIM,David,,Nieuwegein,Utrecht,Netherlands
 3867,N6BJ,Hae Song,Hong,Norwalk,California,United States
+3868,W7SMW,Steven,West,Incline Village,Nevada,United States
+3869,N6TRC,John C,ALBANO,Winchester,California,United States
+3870,CA3FDV,Fernando,DI EGIDIO,MAIPU,Reg.Metr. de Santiago,Chile
+3871,E23JMM,Banterng,Lert-osot,Nonthai,Nakhon Ratchasima,Thailand
+3872,IU8KVC,Antonio,Cotticelli,Gragnano NA JN70GQ,Molise / Campania / Calabria,Italy
+3873,PE1ECL,Mario,,Vlaardingen,None,Netherlands
+3874,BG9IXH,Jiafu,ji,lanzhou,Shan Xi  Ning Xia  Gan Su  Qing Hai,China
+3875,E24UWQ,Kashane,Ruangdet,Pak Kret,Nonthaburi,Thailand
+3876,TA8PRO,Ahmet,Mert,MALATYA,Eastern Anatolia Region,Turkey
+3877,KA3ZFP,Edward,Bucker,Red Bluff,California,United States
+3878,EA3IQX,Modesto,NonFernandeze,Barcelona,Barcelona,Spain
+3879,WA6JAY,Jason U,Abando,Winnetka,California,United States
+3880,K7UWQ,Kashane,Ruangdet,Lynnwood,Washington,United States
+3881,BH3DEO,Zhao,JINPENG,Tianjin,Shan Xi  He Bei  Tian Jin,China
+3882,ON4CCN,Kurt,None,Beveren,Oost-Vlaanderen,Belgium
+3883,4H1QAX,Jayson ,Daplin,Santa Rosa City ,Calabarzon,Philippines
+3884,KC4NWK,Jon B,Simonds,Gainesville,Florida,United States
+3885,EA7FXB,Eugenio,Ruiz,Torremolinos MALAGA,,Spain
+3886,E25SRN,Somkiat,Uppatham,Sawankhalok,Sukhothai,Thailand
 4018,HB9FEF,Beni,a,Basel,Basel-City,Switzerland
 4020,K4XXX,Ed,Lemley,London,Kentucky,United States
 4021,N8SRT,Lance,Patton,Clarksburg,West Virginia,United States

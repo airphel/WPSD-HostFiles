@@ -1,7 +1,7 @@
 # TGList_P25.txt downloaded from http://www.pistar.uk/downloads/TGList_P25.txt
 # sourced from https://raw.githubusercontent.com/g4klx/P25Clients/master/P25Gateway/P25Hosts.txt
 # Please report issues at https://www.facebook.com/groups/pistarusergroup/
-# File updated on Tuesday 18th of October 2022
+# File updated on Thursday 27th of October 2022
 #
 # Dest ID;Name;Description
 #
@@ -226,3 +226,4 @@
 62869;P25-REF-62869;P25-REF-62869
 63600;P25-REF-63600;P25-REF-63600
 65100;P25-REF-65100;P25-REF-65100
+72405;P25-REF-72405;P25-REF-72405

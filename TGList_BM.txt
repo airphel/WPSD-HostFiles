@@ -2,7 +2,7 @@
 # All BrandMeister TG and Reflectors for use with YSF2DMR
 # Sourced from https://api.brandmeister.network/v2/talkgroup
 # Please report issues at https://www.facebook.com/groups/pistarusergroup/
-# File updated on Monday 24th of October 2022
+# File updated on Tuesday 25th of October 2022
 #
 # Dest ID;Option;Name;Description
 #
@@ -1492,6 +1492,7 @@
 250051;0;RUSSIA/MURMANSK-REGION;TG250051
 250052;0;RUSSIA/NIZHNIY-NOVGOROD;TG250052
 250071;0;RUSSIA/TULA;TG250071
+250084;0;RUSSIA/NORILSK;TG250084
 250096;0;RUSSIA/EKATERINBURG-;TG250096
 250111;0;RUSSIA/SMOKINGROOM;TG250111
 250112;0;RADIO-AMATEUR-RESCUE-SERVICE;TG250112

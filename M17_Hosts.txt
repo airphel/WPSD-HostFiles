@@ -1,7 +1,7 @@
 # M17_Hosts.txt downloaded from http://www.pistar.uk/downloads/M17_Hosts.txt
 # sourced from https://reflectors.m17.link/ref-list/json
 # Please report issues at https://www.facebook.com/groups/pistarusergroup/
-# File updated on Monday 24th of October 2022
+# File updated on Thursday 27th of October 2022
 M17-000	81.231.241.25	17000
 M17-001	185.243.214.85	17001
 M17-020	66.175.215.217	17000
@@ -60,7 +60,6 @@ M17-D22	90.187.72.177	17000
 M17-DDI	74.32.197.9	17000
 M17-DEU	194.59.205.228	17000
 M17-DEV	127.0.0.1	17000
-M17-DGN	79.35.213.107	17000
 M17-DMR	81.150.15.15	17000
 M17-EA1	80.211.29.226	17000
 M17-EA2	104.148.41.57	17000
