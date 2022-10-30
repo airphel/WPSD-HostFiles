@@ -92,6 +92,7 @@
 22825	212.237.33.114	41400
 23426	nxdn.freestar.network	41400
 23491	nxdn-cambridge.dyndns.org	41400
+23511	xlxlef.gb7hh.co.uk	41400
 23530	194.146.44.13	41400
 23551	nxdnscotland.ddns.net	41400
 23595	nxdn.oz-dmr.uk	41400

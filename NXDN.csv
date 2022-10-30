@@ -2577,7 +2577,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2598,N5ODI,Gary,Rice,Dayton,Texas,United States
 2599,K6CVM,Cammeron,Farnsworth,Tehachapi,California,United States
 2600,KM4WXX,Sanford L,Wyatt,Sarasota,Florida,United States
-2601,WX4BED,Alaire,DeWeese,Vinton,Virginia,United States
 2602,KC1MAM,Robert J,Bowes,Francestown,New Hampshire,United States
 2603,NW3Q,Seavey D,Morse,Port Charlotte,Florida,United States
 2604,2E0HQM,Mike,Smith,Bury St Edmunds,England,United Kingdom
@@ -3245,7 +3244,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 3273,WO4LFY,Peter,Taranto,Vero Beach,Florida,United States
 3274,KD4EFM,Evans,Mitchell,Lakeland,Florida,United States
 3275,KD4EFM,Evans,Mitchell,Lakeland,Florida,United States
-3276,IU5FHF,Roberto,,Monte Argentario,,Italy
+3276,IU5FHF,Roberto,Rizzardi,Monte Argentario,Tuscany,Italy
 3277,VE3XEJ,Eric,Jacksch,Ottawa,Ontario,Canada
 3278,KD4EFM,Evans,Mitchell,Lakeland,Florida,United States
 3279,N4KEG,Richard,Rexroad,Lakeland,Florida,United States
@@ -3790,7 +3789,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 3819,BG2LNY,Peng,chow,changchun,Hei Long Jiang  Ji Lin  Liao Ning,China
 3820,M0UKB,Bruce,Lenton,Allendale,England,United Kingdom
 3821,KC3UXO,Brad,Boggs,Annapolis,Maryland,United States
-3822,KF0KMM,Thomas,Lancaster,Jamestown,Missouri,United States
+3822,WE1LDS,Thomas,Lancaster,Jamestown,Missouri,United States
 3823,G4VMF,Stuart,,Cranbrook Exeter,None,United Kingdom
 3824,4H1FIY,RANIEL JAMESON,Mendoza,Lucban,Calabarzon,Philippines
 3825,M5MSX,Martin,Smith,Norfolk,England,United Kingdom
@@ -3821,7 +3820,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 3850,PU2RZR,Rodrigo Alexandre,Paronetti,Sao Paulo,Sao Paulo,Brazil
 3851,YO6LRV,Denis A ,Berger,551044 Medias,Brasov / Covasna / Harghita / Mures / Sibiu,Romania
 3852,KN6WDH,Jeremy,Van Grinsven,Palo Alto,California,United States
-3853,DO3JEL,Jan-Eric,Leipner,Münden,Niedersachsen / Bremen,Germany
+3853,DO3JEL,Jan-Eric,Leipner,Muenden,Niedersachsen / Bremen,Germany
 3854,SM5SVQ,Bo Torsten,Lewander,Tyresö,Stockholm,Sweden
 3855,EA1DME,Jesus,ordoñez amo,LOGROÑO,La Rioja,Spain
 3856,KE8PEO,Brian,Dibble,Willoughby,Ohio,United States
@@ -3855,6 +3854,28 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 3884,KC4NWK,Jon B,Simonds,Gainesville,Florida,United States
 3885,EA7FXB,Eugenio,Ruiz,Torremolinos MALAGA,,Spain
 3886,E25SRN,Somkiat,Uppatham,Sawankhalok,Sukhothai,Thailand
+3887,SA0BUX,Lars,Nilsson,Stockholm,Stockholm,Sweden
+3888,KD9TKG,James,Cook,Mattoon,Illinois,United States
+3889,M7DXN,Paul,Brant,Woodbridge,England,United Kingdom
+3890,HR2OMG,Omar Miguel ,Avila Gil,Puerto Cortes,Cortes y Yoro,Honduras
+3891,BD4TJT,Junpeng,han,镇江,Shan Dong  Jiang Su,China
+3892,OD5KU,Elie,El-Kadi,Ballouneh,Mount Lebanon,Lebanon
+3893,KD8SYI,Jacob,Shelley,Blanchester,Ohio,United States
+3894,KE8VU,Robert,Kinner,Hamilton,Ohio,United States
+3895,PA3GAE,Hugo,,Maasland,None,Netherlands
+3896,W2SJB,Sacha,Bernstein,Easley,South Carolina,United States
+3897,KD6DWX,Charles E,Kendrick,Riverside,California,United States
+3898,K3PK,Peter,Katz,Riva,Maryland,United States
+3899,KC5MXJ,John,Leeds,Tulsa,Oklahoma,United States
+3900,VA7CRA,Cory,Andersen,Lake Country,British Columbia,Canada
+3901,PD0JB,Jos,,Zaandam,None,Netherlands
+3902,YT1XN,Milan,Stevanovic,Belgrade,,Serbia
+3903,W8IE,Edward,Rivers,Lakewood,Ohio,United States
+3904,KK4CAB,Everette,Elmore III,Clermont,Florida,United States
+3905,SQ9JYZ,Krzysztof,Kubisz,Muszyna,małopolskie,Poland
+3906,F4JKS,David,alias Dave,Toulouse,Occitanie,France
+3907,WO6A,Marc A,Peters,Garden Grove,California,United States
+3908,KI4VLH,Gary L,Bechtold,Pahrump,Nevada,United States
 4018,HB9FEF,Beni,a,Basel,Basel-City,Switzerland
 4020,K4XXX,Ed,Lemley,London,Kentucky,United States
 4021,N8SRT,Lance,Patton,Clarksburg,West Virginia,United States
@@ -4603,7 +4624,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 13554,KB8ZGX,Lawrence L,Hughes,Coldwater,Michigan,United States
 13555,HS4CPI,Manoch,Kovi,Khlongsamwa,Bangkok,Thailand
 13556,KK4LXY,Theodore J,Kruger,Brooksville,Florida,United States
-13557,W1JAO,James A,O,Ogunquit,Maine,United States
+13557,W1JAO,James A,Oliver,Ogunquit,Maine,United States
 13558,W5TH,Thomas J,Hermann,Troy,Michigan,United States
 13559,SP4XKB,Konrad,Czaplicki,Grajewo,podlaskie,Poland
 13574,KK4GXP,John I,Brazel,Waycross,Georgia,United States

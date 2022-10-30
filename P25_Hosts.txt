@@ -121,6 +121,7 @@
 23225	94.199.173.123	41000
 23426	p25.freestar.network	41000
 23456	kc1noc.duckdns.org	41000
+23511	xlxlef.gb7hh.co.uk	41000
 23551	p25scotland.ddns.net	41000
 23595	p25.oz-dmr.uk	41000
 25605	ysf.386i.ru	41000
