@@ -1177,8 +1177,6 @@ DMR+_42eme_TG42			0000	hotspot.42emefrequence.fr				motdepasse42	55557
 DMR+_f62dmr_TG9			0000	serveur-f62dmr.fr				f62dmr	55555
 DMR+_5457dmr_TG54			0000	92.222.217.179				passw0rd01	42016
 #
-DMR+_local_Simplex		0000	194.35.13.233				passw0rd	55555
-DMR+_local_Duplex		0000	194.35.13.233				passw0rd	55556
-DMR+_local_Repeater		0000	194.35.13.233				passw0rd	55557
+DMR+_RADIOSHACK		0000	194.35.13.233				passw0rd	62031
 #
 ######################################################################################################
