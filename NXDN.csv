@@ -277,7 +277,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 276,K5BEN,Benjamin,Ng,Prosper,Texas,United States
 277,W1PAA,Prince,Adeyemi,North Las Vegas,Nevada,United States
 278,W1PAA,Prince,Adeyemi,North Las Vegas,Nevada,United States
-279,VA7TCM,Trevor,McDonald,Dawson Creek,British Columbia,Canada
+279,VA7TCM,Trevor,McDonald,Fort St John,British Columbia,Canada
 280,VE3TPZ,James,Davidson,Stratford,Ontario,Canada
 281,VE3FCD,James R,Davidson,Stratford,Ontario,Canada
 282,KE8ANE,Keith D,Hosom,Stockport,Ohio,United States
@@ -308,7 +308,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 307,KD0NU,Steve L,Brent,Aspen,Colorado,United States
 308,KE6AYK,Jeff,Jones,Pollock Pines,California,United States
 309,KE6AYK,Jeff,Jones,Pollock Pines,California,United States
-310,KC1KAE,Thomas,Harper,Waynesville,North Carolina,United States
+310,KC1KAE,Thomas,Harper,Franklin,North Carolina,United States
 311,N4CMM,Michael,Marshall,Foley,Alabama,United States
 312,KD2KWD,Michael,S,Tampa,Florida,United States
 313,VK3SLR,Allan,Fowler,Cranbourne,Victoria,Australia
@@ -1107,7 +1107,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1108,OE4KMU,Klaus,,Markt Allhau,None,Austria
 1109,N5FKU,Scott E,Croft,Frisco,Texas,United States
 1111,PE1BMM,William,Abbo,Obdam,Noord-Holland,Netherlands
-1112,EA3V,Toni,,Sant Vicenc dels Horts,Barcelona,Spain
+1112,EA3V,Toni,None,Sant Vicenc dels Horts,Barcelona,Spain
 1113,KQ4BX,Joseph,Massimino,Jensen Beach,Florida,United States
 1114,K1DMM,David M,Markt,Websterville,Vermont,United States
 1115,TA5GMZ,Murat,Zaza,Seyhan,Mediterranean Region,Turkey
@@ -1444,7 +1444,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1449,IZ4WNA,Alessandro,,Bologna,Emilia-Romagna,Italy
 1450,YB6ABO,Doni,Supriya Heru,Kutabaro,Aceh,Indonesia
 1451,N8CWG,Charles,Grant,Toledo,Ohio,United States
-1452,PU3FSN,Fernando,NUNES,BAGE,Rio Grande do Sul,Brazil
+1452,PY3FSN,Fernando,Nunes,Bagé,Rio Grande do Sul,Brazil
 1453,N2VMO,Donald,Schuck,Jefferson Valley,New York,United States
 1454,DK5RQ,Rudi,,Thalmassing,Bayern,Germany
 1455,IU2MQD,Fulvio,None,Cassano Dadda,None,Italy
@@ -1522,7 +1522,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1529,UT4URT,Borys,Domin,Kiev,,Ukraine
 1530,G7JWR,Martin,,Stoke on Trent,None,United Kingdom
 1531,W5LMM,Lee,Maisel,Albuquerque,New Mexico,United States
-1532,F6CYK,Pierre-Antoine,DUMARQUEZ,Etretat,Normandie,France
+1532,F6CYK,Pierre-Antoine,-,Etretat,Normandie,France
 1533,VE1CYP,Alan,Cyples,Bridgewater,Nova Scotia,Canada
 1534,WR4XM,Herman,Rigdon,Pickens,South Carolina,United States
 1535,VK3WG,Wayne,Grincais,Bendigo Victoria Aus,Victoria,Australia
@@ -1688,7 +1688,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1696,TA4AJ,Cem Caner,ERCAN,Muratpasa,None,Turkey
 1697,K5WAN,Wendell A,Neal,Covington,Georgia,United States
 1698,NE5V,Christopher W,Miller,Liberty Hill,Texas,United States
-1699,K1ZBT,Shane,Keith,Milton,Massachusetts,United States
+1699,K1ZBT,Shane,Keith,Plymouth,Massachusetts,United States
 1700,IK6TIJ,Vincenzo,,Pianella,None,Italy
 1701,BH5UNA,Jian,Zhang,AMOY,Zhe Jiang  Fu Jian  Jiang Xi,China
 1702,KC9RHH,Jesse A,Weiss,Noble,None,United States
@@ -2792,7 +2792,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2816,KB0TKV,David A,Livsey,Sparta,Missouri,United States
 2817,KA0ODP,Chris,PatriotGFX,Hudson,Wisconsin,United States
 2818,G6EGM,Dave,Patrick,BARNARD CASTLE,England,United Kingdom
-2819,K1ZBT,Shane,Keith,Milton,Massachusetts,United States
+2819,K1ZBT,Shane,Keith,Plymouth,Massachusetts,United States
 2820,2E0UUN,Stefan,S,Newcastle Upon Tyne,England,United Kingdom
 2822,M0JGX,James,Gillard,Lowestoft,England,United Kingdom
 2823,SP9AP,Artur,None,Krakow,małopolskie,Poland
@@ -3845,7 +3845,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 3875,E24UWQ,Kashane,Ruangdet,Pak Kret,Nonthaburi,Thailand
 3876,TA8PRO,Ahmet,Mert,MALATYA,Eastern Anatolia Region,Turkey
 3877,KA3ZFP,Edward,Bucker,Red Bluff,California,United States
-3878,EA3IQX,Modesto,NonFernandeze,Barcelona,Barcelona,Spain
+3878,EA3IQX,Modesto,Fernandez,Barcelona,Barcelona,Spain
 3879,WA6JAY,Jason U,Abando,Winnetka,California,United States
 3880,K7UWQ,Kashane,Ruangdet,Lynnwood,Washington,United States
 3881,BH3DEO,Zhao,JINPENG,Tianjin,Shan Xi  He Bei  Tian Jin,China
@@ -3869,13 +3869,56 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 3899,KC5MXJ,John,Leeds,Tulsa,Oklahoma,United States
 3900,VA7CRA,Cory,Andersen,Lake Country,British Columbia,Canada
 3901,PD0JB,Jos,,Zaandam,None,Netherlands
-3902,YT1XN,Milan,Stevanovic,Belgrade,,Serbia
+3902,YT1XN,Milan,Stevanovic,Belgrade,All Regions,Serbia
 3903,W8IE,Edward,Rivers,Lakewood,Ohio,United States
 3904,KK4CAB,Everette,Elmore III,Clermont,Florida,United States
 3905,SQ9JYZ,Krzysztof,Kubisz,Muszyna,małopolskie,Poland
 3906,F4JKS,David,alias Dave,Toulouse,Occitanie,France
 3907,WO6A,Marc A,Peters,Garden Grove,California,United States
 3908,KI4VLH,Gary L,Bechtold,Pahrump,Nevada,United States
+3909,EA7FC,Francisco,Castaño Cardenas,CP 41540 LA PUEBLA DE CAZALLA  SEVILLA ,Sevilla,Spain
+3910,W1LP,Clinton L,Walker,East Sandwich,Massachusetts,United States
+3911,KN6WHY,Sheung,Li,San Diego,California,United States
+3912,KO4WIY,Stephen,Fisher,Dandridge,Tennessee,United States
+3913,KS9I,Kevin,Dudek,Tamaroa,Illinois,United States
+3914,W4ZWW,Richard,Caldwell,Foley,Alabama,United States
+3915,BA7JQY,Mxcoc,Zhang,qingyang,Shan Xi  Ning Xia  Gan Su  Qing Hai,China
+3916,F4INM,Alex,,Tourcoing,Hauts-de-France,France
+3917,IW5AKT,Claudio,Bendinelli,Cascina,Tuscany,Italy
+3918,F4FYD,Nicolas,,Boulogne Sur Mer,Hauts-de-France,France
+3919,N5GLO,William,Turner,Oakhurst,Texas,United States
+3920,KK7ISV,Lee,Nikkari,Tucson,Arizona,United States
+3921,DU4SMA,Servillano,Avila Jr,Naga City,Bicol Region,Philippines
+3922,WD4VR,Vicente,Raigoso,Miami,Florida,United States
+3923,BG4XUK,wei,wei,zhenjiang,Shan Dong  Jiang Su,China
+3924,KD9VYV,Travis E,Hughes,Hoopeston,Illinois,United States
+3925,KC3USQ,John M,Campbell,Markleton,Pennsylvania,United States
+3926,OZ7BFC,Frost,Christoffersen,Ringsted,Sjaelland,Denmark
+3927,IZ4SJB,Massimiliano,Buldrini,Bologna,Emilia-Romagna,Italy
+3928,TB6BEM,Murat,EFE,Corum,Black Sea Region,Turkey
+3929,M0EUY,Tony,,Bordon,None,United Kingdom
+3930,NE5L,Johnnie C,Smith,Ellisville,Mississippi,United States
+3931,F4PBS,Marc,,Prugny,None,France
+3932,EA4HUH,Victor,Escudero Rubio,Manzanares El Real,Madrid,Spain
+3933,KD2PWJ,Dale,Alexander,New Brunswick,New Jersey,United States
+3934,K1ORT,Luis,Ortiz,Valrico,Florida,United States
+3935,SP5OG,Olaf,Grabowski,Minsk Mazowiecki,mazowieckie,Poland
+3936,OH3BUK,Topi,None,Jokioinen,None,Finland
+3937,AG6XS,Matthew,Robbins,Los Altos,California,United States
+3938,BH1BPS,Lai,Ren Yi,Bei Jing,Bei Jing,China
+3939,PD5MSV,Harrie,Extra,Krimpen Aan Den Ijssel,Zuid-Holland,Netherlands
+3940,BH2UUT,zhongpeng,zhang,shenyang,Hei Long Jiang  Ji Lin  Liao Ning,China
+3941,4G1FSI,Romel C,Godoy,Trece Martirez City  Cavite,Calabarzon,Philippines
+3942,BG2UDI,Zhu,QiPeng,Shenyang,Hei Long Jiang  Ji Lin  Liao Ning,China
+3943,AB9MZ,Gregory D,Rosenberg,Tinley Park,Illinois,United States
+3944,W1FIC,Francis,Currie,Taunton,Massachusetts,United States
+3945,VE7VIB,Tadeusz,Pater,Richmond,British Columbia,Canada
+3946,9V1FH,Thum,Fu Hang,Taman Jurong  Jurong West  Singapore,Singapore,Singapore
+3947,M0DUC,Richard,Beere,Taunton,England,United Kingdom
+3948,KC2FTO,Fausto,Cepeda,Davenport,Florida,United States
+3949,KO4HEA,Jeff,Gromest,Cape Coral,Florida,United States
+3950,DO1CHS,Chris,Schaffeld,Wülfrath,Nordrhein-Westfalen,Germany
+3951,DO1PLF,Peter,Leichtlein,Flachslanden,Bayern,Germany
 4018,HB9FEF,Beni,a,Basel,Basel-City,Switzerland
 4020,K4XXX,Ed,Lemley,London,Kentucky,United States
 4021,N8SRT,Lance,Patton,Clarksburg,West Virginia,United States
@@ -4648,7 +4691,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 13608,W4JDH, Juniper,Holmes,Lilburn,Georgia,United States
 13609,SQ4G,Grzegorz,,Bialystok,None,Poland
 13613,W9QO,Mike,Gee,Braselton,Georgia,United States
-13614,VK3XEM,Simon,Templar,PRESTON,Victoria,Australia
+13614,VK3XEM,Simon,Templar,RESERVOIR,Victoria,Australia
 13615,IZ0RDM,Iz0rdm,,Ardea,None,Italy
 13658,WA4ASI,George C,Hawk,Covington,Georgia,United States
 13659,2E0ENN,Sean,,Sleaford,None,United Kingdom
@@ -6438,4 +6481,3 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 65518,F5UGX,Philippe,,Feignies,None,France
 65519,HH2MJF,HH2MJF Repeater,HDCL,Port-au-Prince,Ouest,Haiti
 65520,W4PXE,David M,Rockwell,Saint Petersburg,Florida,United States
-

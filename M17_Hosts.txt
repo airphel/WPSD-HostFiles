@@ -1,7 +1,7 @@
 # M17_Hosts.txt downloaded from http://www.pistar.uk/downloads/M17_Hosts.txt
 # sourced from https://reflectors.m17.link/ref-list/json
 # Please report issues at https://www.facebook.com/groups/pistarusergroup/
-# File updated on Sunday 30th of October 2022
+# File updated on Tuesday 8th of November 2022
 M17-000	81.231.241.25	17000
 M17-001	185.243.214.85	17001
 M17-020	66.175.215.217	17000
@@ -9,6 +9,7 @@ M17-033	46.226.178.84	17000
 M17-090	172.245.19.144	17000
 M17-100	81.231.241.25	17000
 M17-138	103.195.7.20	17000
+M17-148	122.154.141.51	17000
 M17-149	122.154.140.136	17000
 M17-190	190.194.12.53	17000
 M17-201	157.245.45.67	17000
@@ -96,6 +97,7 @@ M17-KR1	158.247.215.135	17000
 M17-KRG	155.138.212.8	17000
 M17-LAT	80.211.94.145	17000
 M17-LDV	80.211.99.134	17000
+M17-LEF	77.68.25.66	17000
 M17-LSC	75.182.2.162	17000
 M17-M17	152.70.192.70	17000
 M17-MBK	104.145.237.90	17000

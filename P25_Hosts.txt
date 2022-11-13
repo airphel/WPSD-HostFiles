@@ -219,3 +219,4 @@
 63600	xlx.ham.lv	41000
 65100	89.46.75.115	41000
 72405	mgbrasil.duckdns.org	41000
+72406	km4hjj-p25.dyndns-server.com	
