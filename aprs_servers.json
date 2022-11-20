@@ -156,6 +156,7 @@
 [
   {
     "fqdn": "cwop2.aprs.net",
+    "out_of_service": true,
     "ipv4": "137.26.70.99",
     "ipv6": null,
     "member": [
@@ -263,20 +264,6 @@
 ]
 [
   {
-    "fqdn": "turkiye.aprs2.net",
-    "ipv4": "18.202.153.44",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2TURKIYE",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
     "fqdn": "belgium.aprs2.net",
     "ipv4": "46.18.33.196",
     "ipv6": null,
@@ -335,8 +322,8 @@
 [
   {
     "fqdn": "yyz.aprs2.net",
-    "ipv4": "137.220.54.84",
-    "ipv6": "2001:19f0:b001:f:5400:2ff:fef7:9227",
+    "ipv4": "137.220.55.17",
+    "ipv6": "2001:19f0:b001:8b3:5400:4ff:fe34:ddff",
     "member": [
       "noam.aprs2.net",
       "rotate.aprs2.net"
@@ -495,21 +482,6 @@
 ]
 [
   {
-    "fqdn": "fejer.aprs2.net",
-    "ipv4": "185.63.44.34",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net",
-      "hungary.aprs2.net"
-    ],
-    "id": "T2FEJER",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
     "fqdn": "eisberg.aprs2.net",
     "ipv4": "88.198.88.18",
     "ipv6": "2a01:4f8:c17:12c2::2",
@@ -568,6 +540,7 @@
 [
   {
     "fqdn": "hub1.aprs2.net",
+    "out_of_service": true,
     "ipv4": "185.18.149.99",
     "ipv6": "2a04:b80:1:1::2",
     "member": [
@@ -693,7 +666,7 @@
   {
     "fqdn": "denmark.aprs2.net",
     "ipv4": "91.210.59.134",
-    "ipv6": "2a0d:3e83:1:692::1",
+    "ipv6": null,
     "member": [
       "rotate.aprs2.net",
       "euro.aprs2.net"
@@ -778,6 +751,7 @@
 [
   {
     "fqdn": "cwop1.aprs.net",
+    "out_of_service": true,
     "ipv4": "129.15.108.116",
     "ipv6": null,
     "member": [
@@ -812,20 +786,6 @@
       "rotate.aprs2.net"
     ],
     "id": "T2ZL",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "istanbul.aprs2.net",
-    "ipv4": "31.145.53.62",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2TURKEY",
     "show_members": 1
   },
   null
@@ -958,20 +918,6 @@
 ]
 [
   {
-    "fqdn": "trac.aprs2.net",
-    "ipv4": "88.225.230.172",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2TRAC",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
     "fqdn": "italy1.aprs2.net",
     "ipv4": "193.42.134.69",
     "ipv6": null,
@@ -1027,6 +973,7 @@
 [
   {
     "fqdn": "maine.aprs2.net",
+    "out_of_service": true,
     "ipv4": "216.195.129.35",
     "ipv6": null,
     "member": [
@@ -1087,6 +1034,21 @@
       "asia.aprs2.net"
     ],
     "id": "T2OSAKA",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "sweden.aprs2.net",
+    "ipv4": "85.197.129.88",
+    "ipv6": "2a05:e840:300::88",
+    "member": [
+      "nordic.aprs2.net",
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2SWEDEN",
     "show_members": 1
   },
   null
@@ -1402,6 +1364,7 @@
 [
   {
     "fqdn": "seventh.aprs.net",
+    "out_of_service": true,
     "ipv4": "129.15.108.113",
     "ipv6": null,
     "member": [

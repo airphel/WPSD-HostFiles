@@ -2,7 +2,7 @@
 # All BrandMeister TG and Reflectors for use with YSF2DMR
 # Sourced from https://api.brandmeister.network/v2/talkgroup
 # Please report issues at https://www.facebook.com/groups/pistarusergroup/
-# File updated on Tuesday 1st of November 2022
+# File updated on Sunday 13th of November 2022
 #
 # Dest ID;Option;Name;Description
 #
@@ -496,6 +496,7 @@
 7166;0;PERU-ZONA-OA6;TG7166
 7221;0;AR-AMBA;TG7221
 7222;0;AR-CIRCULO-ROSARIO;TG7222
+7223;0;MAR-DEL-PLATA-AR;TG7223
 7224;0;ARGENTINA-NAUTICA;TG7224
 7227;0;ARGENTINA-LINK;TG7227
 7229;0;ARGENTINA-ROOM;TG7229

@@ -1,7 +1,7 @@
 # TGList_NXDN.txt downloaded from http://www.pistar.uk/downloads/TGList_NXDN.txt
 # sourced from https://raw.githubusercontent.com/g4klx/NXDNClients/master/NXDNGateway/NXDNHosts.txt
 # Please report issues at https://www.facebook.com/groups/pistarusergroup/
-# File updated on Saturday 29th of October 2022
+# File updated on Friday 18th of November 2022
 #
 # Dest ID;Name;Description
 #
@@ -71,6 +71,7 @@
 10304;NX-10304-SPAIN;NX-10304-SPAIN
 10400;NX-10400-PACIFIC;NX-10400-PACIFIC
 10922;NX-REF-10922;NX-REF-10922
+11069;NX-REF-11069;NX-REF-11069
 17000;NX-REF-17000;NX-REF-17000
 20000;NX-20000-GERMAN;NX-20000-GERMAN
 20201;NX-REF-20201;NX-REF-20201
