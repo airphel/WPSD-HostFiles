@@ -1165,13 +1165,11 @@ SystemX_Mexico	0000	mx.freestar.network	passw0rd	62031
 #DMR+_Custom_01			1234	1.2.3.4				PASSWORD	55555
 ######################################################################################################
 #
-BM_#LE38_TG38			0000	le38.dmr75.fr				passw0rd	55555
-DMR+_#LE38_TG38			0000	le38.dmr75.fr				passw0rd	55555
-DMR+_DMR75_ALLTG		0000	dmr75.fr				passw0rd	55555
-DMR+_f62dmr_TG9			0000	serveur-f62dmr.fr			f62dmr	55555
+DMR+_DMR75_ALLTG		0000	dmr75.fr				passw0rd        55555
+DMR+_f62dmr_TG9			0000	serveur-f62dmr.fr			f62dmr  	55555
 DMR+_5457dmr_TG54		0000	92.222.217.179				passw0rd01	42150
 #
-FREEDMR_DIGITAL_TG262	0000	freedmr.digital				passw0rd	62031
+FreeDMR_Digital			0000	freedmr.digital				passw0rd	62031
 #
 DMR+_RADIOSHACK			0000	194.35.13.233				passw0rd	62031
 #
