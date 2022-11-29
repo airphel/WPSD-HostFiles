@@ -1171,6 +1171,6 @@ DMR+_5457dmr_TG54		0000	92.222.217.179				passw0rd01	42150
 #
 FreeDMR_Digital			0000	freedmr.digital				passw0rd	62031
 #
-DMR+_RADIOSHACK			0000	194.35.13.233				passw0rd	62031
+DMR+_RADIOSHACK			0000	radioshack.ovh				passw0rd	62031
 #
 ######################################################################################################
