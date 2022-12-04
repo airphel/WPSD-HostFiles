@@ -9,6 +9,7 @@
 226	p25.dstar-yo.ro	41000
 260	p25.hblink.pl	41000
 357	3.215.215.169	41010
+419	tada-p25.ddns.net	41000
 420	p25.superfreqdigital.com	41000
 445	p25.Supermag.fishersaudio.com.au	41000
 456	456.ham-p25.de	41000
@@ -56,6 +57,7 @@
 6969	69.118.62.100	41000
 7160	p25.dmr-peru.pe	41000
 7225	ysfarg.ddns.net	41000
+7245	mgbrasil.duckdns.org	41000
 7487	23.234.230.152	41000
 7941	45.32.82.218	41000
 8200	n2yqt.tourge.net	41000
@@ -153,7 +155,7 @@
 31171	illink.radiotechnology.xyz	41000
 31188	w9windigital.org	41000
 31207	155.138.244.192	41000
-31220	64.246.112.132	41000
+31220	w8mal-dvbridge.hopto.org	41000
 31226	192.99.70.1	41000
 31238	p25.foxhole.radio	41000
 31257	p25.w0jay.com	41000
@@ -220,4 +222,3 @@
 63600	xlx.ham.lv	41000
 65100	89.46.75.115	41000
 65101	km4hjj-p25.dyndns-server.com	41000
-72405	mgbrasil.duckdns.org	41000

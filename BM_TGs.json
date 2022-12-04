@@ -953,6 +953,7 @@
   "28614": "Turkey Bolu",
   "28616": "Turkey Bursa",
   "28617": "Turkey Canakkale",
+  "28625": "Erzurum",
   "28627": "Turkey Gaziantep",
   "28633": "Turkey Mersin",
   "28634": "Turkey Istanbul",
@@ -1306,7 +1307,6 @@
   "31665": "DMR Campfire",
   "31666": "DMR of Anarchy",
   "31667": "Old Friends",
-  "31668": "Sta-Mar",
   "31670": "Florida Gulf Coast",
   "31671": "Youth ARC",
   "31672": "PI-Star Chat",
@@ -1631,8 +1631,6 @@
   "334911": "EMCOMM Mexico",
   "460666": "CHINA SUIZHOU AR",
   "505999": "XLX626B&NZXLXYSF",
-  "530999": "XLX626A&YSF",
-  "647647": "Reunion Island",
   "714911": "EMERGENCIA PMA",
   "724942": "XLX-YSF 724",
   "724943": "XRF724 C",
@@ -1647,7 +1645,6 @@
   "2080673": "France/XRF067C 17",
   "2169112": "Emergency Hungary",
   "2709112": "LX EMCOMM",
-  "3170603": "W0CHP-PiStar-Dash Chat",
     "3170603": "W0CHP-PiStar-Dash Chat",
   "5059742": "XRF740 C"
 }
