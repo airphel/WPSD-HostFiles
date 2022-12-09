@@ -3,7 +3,7 @@
 #	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
 #	Origional idea from Adrian Craig (M0GLJ)
 #
-#	Updated 04-Dec-2022
+#	Updated 09-Dec-2022
 #
 #	The format of this file is the name of the reflector followed by its
 #	IP address / Hotname / Password. NO SPACES!!
@@ -45,14 +45,14 @@ XLX_013				0000	18.188.189.124				passw0rd	62030
 XLX_014				0000	52.63.223.130				passw0rd	62030
 XLX_015				0000	194.59.205.228				passw0rd	62030
 XLX_016				0000	150.66.42.17				passw0rd	62030
-XLX_017				0000	191.162.184.42				passw0rd	62030
+XLX_017				0000	191.162.162.205				passw0rd	62030
 XLX_018				0000	161.97.73.43				passw0rd	62030
 XLX_019				0000	31.7.247.58				passw0rd	62030
 XLX_020				0000	66.175.215.217				passw0rd	62030
 XLX_021				0000	148.251.94.163				passw0rd	62030
 XLX_022				0000	83.137.45.98				passw0rd	62030
 XLX_023				0000	77.85.192.94				passw0rd	62030
-XLX_024				0000	37.102.28.117				passw0rd	62030
+XLX_024				0000	151.53.13.42				passw0rd	62030
 XLX_025				0000	89.38.150.252				passw0rd	62030
 XLX_026				0000	209.42.149.140				passw0rd	62030
 XLX_027				0000	198.12.71.101				passw0rd	62030
@@ -88,7 +88,7 @@ XLX_058				0000	150.66.16.176				passw0rd	62030
 XLX_059				0000	18.219.32.21				passw0rd	62030
 XLX_060				0000	45.76.133.116				passw0rd	62030
 XLX_061				0000	192.248.160.49				passw0rd	62030
-XLX_062				0000	187.34.22.39				passw0rd	62030
+XLX_062				0000	200.162.199.163				passw0rd	62030
 XLX_063				0000	93.49.253.148				passw0rd	62030
 XLX_064				0000	122.222.1.50				passw0rd	62030
 XLX_065				0000	74.130.9.190				passw0rd	62030
@@ -97,7 +97,6 @@ XLX_067				0000	140.228.144.142				passw0rd	62030
 XLX_068				0000	92.222.145.202				passw0rd	62030
 XLX_069				0000	51.77.213.200				passw0rd	62030
 XLX_070				0000	18.130.199.150				passw0rd	62030
-XLX_071				0000	211.60.41.185				passw0rd	62030
 XLX_072				0000	45.22.199.201				passw0rd	62030
 XLX_073				0000	45.77.192.120				passw0rd	62030
 XLX_074				0000	222.128.4.82				passw0rd	62030
@@ -147,12 +146,13 @@ XLX_122				0000	194.37.80.40				passw0rd	62030
 XLX_124				0000	211.14.169.234				passw0rd	62030
 XLX_125				0000	213.181.208.52				passw0rd	62030
 XLX_126				0000	217.173.179.95				passw0rd	62030
+XLX_128				0000	71.218.141.171				passw0rd	62030
 XLX_129				0000	150.66.36.114				passw0rd	62030
 XLX_130				0000	81.231.241.25				passw0rd	62030
 XLX_131				0000	45.80.171.194				passw0rd	62030
 XLX_132				0000	91.203.55.87				passw0rd	62030
 XLX_133				0000	62.220.129.89				passw0rd	62030
-XLX_136				0000	114.157.146.54				passw0rd	62030
+XLX_136				0000	153.197.78.52				passw0rd	62030
 XLX_137				0000	66.85.173.37				passw0rd	62030
 XLX_138				0000	103.195.7.20				passw0rd	62030
 XLX_139				0000	66.42.93.25				passw0rd	62030
@@ -164,13 +164,14 @@ XLX_148				0000	122.154.141.51				passw0rd	62030
 XLX_149				0000	122.154.140.136				passw0rd	62030
 XLX_150				0000	192.241.158.197				passw0rd	62030
 XLX_151				0000	159.203.105.64				passw0rd	62030
-XLX_154				0000	153.136.21.180				passw0rd	62030
+XLX_154				0000	153.182.255.28				passw0rd	62030
 XLX_155				0000	217.182.156.151				passw0rd	62030
 XLX_156				0000	18.233.216.229				passw0rd	62030
 XLX_160				0000	61.195.109.179				passw0rd	62030
 XLX_162				0000	212.91.190.81				passw0rd	62030
 XLX_163				0000	45.143.93.75				passw0rd	62030
-XLX_165				0000	79.107.214.43				passw0rd	62030
+XLX_165				0000	79.107.232.41				passw0rd	62030
+XLX_168				0000	123.139.189.182				passw0rd	62030
 XLX_171				0000	62.113.103.244				passw0rd	62030
 XLX_174				0000	81.169.128.244				passw0rd	62030
 XLX_175				0000	162.248.92.25				passw0rd	62030
@@ -228,13 +229,12 @@ XLX_247				0000	136.244.97.211				passw0rd	62030
 XLX_248				0000	81.150.15.15				passw0rd	62030
 XLX_250				0000	85.208.48.207				passw0rd	62030
 XLX_254				0000	184.82.171.242				passw0rd	62030
-XLX_255				0000	142.91.158.199				passw0rd	62030
 XLX_256				0000	162.238.214.18				passw0rd	62030
 XLX_257				0000	45.89.88.118				passw0rd	62030
 XLX_258				0000	45.22.199.202				passw0rd	62030
 XLX_259				0000	149.202.75.50				passw0rd	62030
 XLX_260				0000	54.37.138.47				passw0rd	62030
-XLX_262				0000	92.194.77.31				passw0rd	62030
+XLX_262				0000	92.194.252.132				passw0rd	62030
 XLX_263				0000	85.214.92.118				passw0rd	62030
 XLX_264				0000	52.2.131.118				passw0rd	62030
 XLX_266				0000	62.171.178.202				passw0rd	62030
@@ -287,14 +287,16 @@ XLX_336				0000	23.226.233.133				passw0rd	62030
 XLX_337				0000	20.118.24.47				passw0rd	62030
 XLX_338				0000	220.135.221.114				passw0rd	62030
 XLX_339				0000	178.254.30.57				passw0rd	62030
+XLX_340				0000	81.14.214.234				passw0rd	62030
 XLX_344				0000	96.126.100.128				passw0rd	62030
 XLX_345				0000	212.114.109.209				passw0rd	62030
 XLX_349				0000	67.85.59.166				passw0rd	62030
-XLX_350				0000	180.21.181.9				passw0rd	62030
+XLX_350				0000	180.36.150.249				passw0rd	62030
 XLX_351				0000	45.33.127.97				passw0rd	62030
 XLX_353				0000	44.155.254.12				passw0rd	62030
 XLX_355				0000	91.146.254.54				passw0rd	62030
 XLX_356				0000	217.174.61.117				passw0rd	62030
+XLX_357				0000	194.146.235.34				passw0rd	62030
 XLX_359				0000	94.156.172.213				passw0rd	62030
 XLX_362				0000	198.166.220.68				passw0rd	62030
 XLX_364				0000	159.65.231.53				passw0rd	62030
@@ -336,7 +338,7 @@ XLX_419				0000	144.202.60.46				passw0rd	62030
 XLX_420				0000	44.207.228.173				passw0rd	62030
 XLX_421				0000	178.254.33.188				passw0rd	62030
 XLX_422				0000	91.36.173.145				passw0rd	62030
-XLX_424				0000	86.168.60.177				passw0rd	62030
+XLX_424				0000	86.166.75.83				passw0rd	62030
 XLX_425				0000	78.121.109.81				passw0rd	62030
 XLX_430				0000	27.93.26.85				passw0rd	62030
 XLX_431				0000	61.195.98.225				passw0rd	62030
@@ -406,19 +408,19 @@ XLX_546				0000	137.184.40.84				passw0rd	62030
 XLX_547				0000	45.32.136.100				passw0rd	62030
 XLX_550				0000	178.62.80.22				passw0rd	62030
 XLX_553				0000	45.79.92.86				passw0rd	62030
-XLX_555				0000	77.0.71.133				passw0rd	62030
+XLX_555				0000	77.10.20.1				passw0rd	62030
 XLX_558				0000	141.95.67.138				passw0rd	62030
 XLX_559				0000	5.185.12.29				passw0rd	62030
 XLX_560				0000	150.66.42.72				passw0rd	62030
 XLX_561				0000	128.22.133.152				passw0rd	62030
 XLX_567				0000	157.245.59.253				passw0rd	62030
-XLX_568				0000	175.163.81.87				passw0rd	62030
+XLX_568				0000	175.163.80.237				passw0rd	62030
 XLX_570				0000	44.56.160.2				passw0rd	62030
 XLX_571				0000	186.29.69.77				passw0rd	62030
 XLX_575				0000	207.251.56.142				passw0rd	62030
 XLX_576				0000	198.58.110.40				passw0rd	62030
 XLX_577				0000	45.33.63.28				passw0rd	62030
-XLX_580				0000	153.194.17.196				passw0rd	62030
+XLX_580				0000	153.194.16.139				passw0rd	62030
 XLX_583				0000	211.132.52.116				passw0rd	62030
 XLX_585				0000	213.212.133.250				passw0rd	62030
 XLX_586				0000	213.254.10.35				passw0rd	62030
@@ -438,7 +440,6 @@ XLX_610				0000	213.21.184.66				passw0rd	62030
 XLX_612				0000	185.231.245.31				passw0rd	62030
 XLX_613				0000	198.50.202.39				passw0rd	62030
 XLX_616				0000	103.156.68.246				passw0rd	62030
-XLX_617				0000	67.85.59.166				passw0rd	62030
 XLX_619				0000	167.99.168.82				passw0rd	62030
 XLX_620				0000	61.195.108.241				passw0rd	62030
 XLX_621				0000	50.37.122.190				passw0rd	62030
@@ -451,7 +452,7 @@ XLX_633				0000	75.135.199.237				passw0rd	62030
 XLX_634				0000	150.66.9.57				passw0rd	62030
 XLX_636				0000	77.38.191.5				passw0rd	62030
 XLX_645				0000	34.196.134.215				passw0rd	62030
-XLX_650				0000	125.194.137.177				passw0rd	62030
+XLX_650				0000	221.170.195.35				passw0rd	62030
 XLX_651				0000	104.143.94.48				passw0rd	62030
 XLX_655				0000	146.64.235.19				passw0rd	62030
 XLX_659				0000	104.131.106.247				passw0rd	62030
@@ -464,7 +465,7 @@ XLX_672				0000	213.171.214.2				passw0rd	62030
 XLX_673				0000	180.147.243.178				passw0rd	62030
 XLX_678				0000	132.145.76.107				passw0rd	62030
 XLX_679				0000	45.79.180.62				passw0rd	62030
-XLX_680				0000	114.154.219.236				passw0rd	62030
+XLX_680				0000	153.185.80.26				passw0rd	62030
 XLX_683				0000	198.46.160.211				passw0rd	62030
 XLX_684				0000	80.211.167.192				passw0rd	62030
 XLX_687				0000	47.186.91.168				passw0rd	62030
@@ -481,11 +482,11 @@ XLX_706				0000	93.186.255.126				passw0rd	62030
 XLX_707				0000	90.145.156.242				passw0rd	62030
 XLX_708				0000	150.66.20.222				passw0rd	62030
 XLX_710				0000	209.126.0.55				passw0rd	62030
-XLX_712				0000	112.228.102.122				passw0rd	62030
 XLX_713				0000	218.251.63.99				passw0rd	62030
 XLX_714				0000	81.169.158.155				passw0rd	62030
 XLX_715				0000	92.187.244.245				passw0rd	62030
-XLX_716				0000	190.117.233.28				passw0rd	62030
+XLX_716				0000	190.117.85.67				passw0rd	62030
+XLX_717				0000	88.159.31.251				passw0rd	62030
 XLX_718				0000	45.77.142.226				passw0rd	62030
 XLX_720				0000	74.91.118.134				passw0rd	62030
 XLX_721				0000	184.56.164.214				passw0rd	62030
@@ -513,7 +514,7 @@ XLX_760				0000	47.39.85.94				passw0rd	62030
 XLX_762				0000	129.21.36.65				passw0rd	62030
 XLX_763				0000	20.245.98.187				passw0rd	62030
 XLX_765				0000	153.126.212.136				passw0rd	62030
-XLX_767				0000	114.155.18.173				passw0rd	62030
+XLX_767				0000	114.157.128.80				passw0rd	62030
 XLX_768				0000	80.211.15.21				passw0rd	62030
 XLX_770				0000	153.126.173.9				passw0rd	62030
 XLX_771				0000	220.123.96.162				passw0rd	62030
@@ -533,8 +534,8 @@ XLX_797				0000	150.66.44.81				passw0rd	62030
 XLX_799				0000	37.143.206.229				passw0rd	62030
 XLX_800				0000	87.252.188.119				passw0rd	62030
 XLX_801				0000	80.108.239.88				passw0rd	62030
-XLX_802				0000	188.22.125.84				passw0rd	62030
-XLX_803				0000	77.116.210.235				passw0rd	62030
+XLX_802				0000	188.22.111.110				passw0rd	62030
+XLX_803				0000	77.116.185.200				passw0rd	62030
 XLX_806				0000	188.63.22.20				passw0rd	62030
 XLX_807				0000	116.91.197.3				passw0rd	62030
 XLX_808				0000	18.220.252.27				passw0rd	62030
@@ -552,7 +553,6 @@ XLX_824				0000	47.206.37.226				passw0rd	62030
 XLX_826				0000	47.206.37.227				passw0rd	62030
 XLX_827				0000	207.148.3.18				passw0rd	62030
 XLX_828				0000	195.225.116.244				passw0rd	62030
-XLX_829				0000	75.115.219.194				passw0rd	62030
 XLX_830				0000	104.238.146.84				passw0rd	62030
 XLX_835				0000	45.32.82.218				passw0rd	62030
 XLX_838				0000	185.166.212.132				passw0rd	62030
@@ -562,12 +562,13 @@ XLX_844				0000	137.226.79.122				passw0rd	62030
 XLX_850				0000	116.203.56.12				passw0rd	62030
 XLX_852				0000	1.36.248.207				passw0rd	62030
 XLX_854				0000	210.236.124.113				passw0rd	62030
+XLX_855				0000	87.154.19.232				passw0rd	62030
 XLX_858				0000	185.170.215.146				passw0rd	62030
 XLX_860				0000	24.134.86.93				passw0rd	62030
 XLX_861				0000	172.105.26.148				passw0rd	62030
 XLX_862				0000	93.56.202.205				passw0rd	62030
 XLX_866				0000	84.155.83.2				passw0rd	62030
-XLX_870				0000	185.78.196.20				passw0rd	62030
+XLX_870				0000	81.24.10.147				passw0rd	62030
 XLX_878				0000	203.137.123.113				passw0rd	62030
 XLX_880				0000	213.171.208.97				passw0rd	62030
 XLX_881				0000	137.220.96.242				passw0rd	62030
@@ -576,7 +577,7 @@ XLX_887				0000	118.163.103.177				passw0rd	62030
 XLX_888				0000	85.214.239.189				passw0rd	62030
 XLX_889				0000	18.188.148.180				passw0rd	62030
 XLX_891				0000	209.251.60.131				passw0rd	62030
-XLX_893				0000	153.233.198.216				passw0rd	62030
+XLX_893				0000	153.143.163.96				passw0rd	62030
 XLX_894				0000	150.66.19.140				passw0rd	62030
 XLX_899				0000	77.68.30.160				passw0rd	62030
 XLX_901				0000	91.126.242.39				passw0rd	62030
@@ -601,10 +602,10 @@ XLX_934				0000	79.62.11.22				passw0rd	62030
 XLX_936				0000	152.67.100.199				passw0rd	62030
 XLX_937				0000	81.25.49.85				passw0rd	62030
 XLX_938				0000	46.32.62.49				passw0rd	62030
+XLX_939				0000	185.101.96.39				passw0rd	62030
 XLX_940				0000	202.218.37.121				passw0rd	62030
 XLX_944				0000	202.218.34.210				passw0rd	62030
 XLX_945				0000	213.202.229.40				passw0rd	62030
-XLX_947				0000	85.214.61.75				passw0rd	62030
 XLX_948				0000	46.101.36.246				passw0rd	62030
 XLX_949				0000	149.248.3.1				passw0rd	62030
 XLX_950				0000	158.64.26.134				passw0rd	62030
@@ -616,6 +617,7 @@ XLX_959				0000	203.137.98.121				passw0rd	62030
 XLX_960				0000	104.153.109.233				passw0rd	62030
 XLX_963				0000	108.61.205.139				passw0rd	62030
 XLX_964				0000	52.173.142.244				passw0rd	62030
+XLX_965				0000	80.211.190.216				passw0rd	62030
 XLX_969				0000	45.72.190.123				passw0rd	62030
 XLX_972				0000	109.226.48.53				passw0rd	62030
 XLX_974				0000	94.177.217.52				passw0rd	62030
@@ -646,7 +648,6 @@ XLX_CZE				0000	46.28.109.166				passw0rd	62030
 XLX_DS6				0000	142.47.109.166				passw0rd	62030
 XLX_DVM				0000	212.237.34.32				passw0rd	62030
 XLX_FEI				0000	88.105.46.59				passw0rd	62030
-XLX_FIB				0000	45.33.121.114				passw0rd	62030
 XLX_GUS				0000	45.62.249.150				passw0rd	62030
 XLX_HBN				0000	139.144.30.222				passw0rd	62030
 XLX_HKG				0000	42.98.121.155				passw0rd	62030
@@ -664,8 +665,10 @@ XLX_PTA				0000	206.189.17.7				passw0rd	62030
 XLX_RC1				0000	91.192.92.181				passw0rd	62030
 XLX_RUS				0000	45.147.178.46				passw0rd	62030
 XLX_SAT				0000	149.28.241.139				passw0rd	62030
+XLX_SIN				0000	66.42.125.122				passw0rd	62030
 XLX_THA				0000	203.150.19.24				passw0rd	62030
 XLX_TRK				0000	130.61.84.77				passw0rd	62030
+XLX_TUR				0000	212.64.217.144				passw0rd	62030
 XLX_TYO				0000	43.233.8.33				passw0rd	62030
 XLX_UDN				0000	183.176.193.120				passw0rd	62030
 XLX_UFO				0000	45.92.44.45				passw0rd	62030
@@ -804,6 +807,7 @@ DMR+_IPSC2-NewYork		122705	192.241.175.221				PASSWORD	55555
 DMR+_IPSC2-NewZealand		397624	114.110.34.244				PASSWORD	55555
 DMR+_IPSC2-OE-DMO		385836	89.185.97.34				PASSWORD	55555
 DMR+_IPSC2-OE-DMO-HAMNET	385836	44.143.8.140				PASSWORD	55555
+DMR+_IPSC2-OE-TEST-HAMNET	143859	44.143.9.72				PASSWORD	55555
 DMR+_IPSC2-OZARK		132480	45.33.126.247				PASSWORD	55555
 DMR+_IPSC2-Poland		348369	91.245.87.196				PASSWORD	55555
 DMR+_IPSC2-Portugal		336577	164.68.117.231				PASSWORD	55555
@@ -957,7 +961,6 @@ HB_CH_IT_ARAS_SICILY_1		0000	217.61.23.253				passw0rd	62031
 ######################################################################################################
 # Name				DMR-ID	IP/Hostname				Password	Port #
 ######################################################################################################
-FD_ES_EU_SYSTEM_X		0000	es.freestar.network			passw0rd	62031
 HB_EA_EA7URF			0000	ea7dyyhblink.duckdns.org		passw0rd	55555
 HB_EA_ALCAYNA			0000	alcayna.duckdns.org			passw0rd	55550
 HB_EA_SPAIN_Duplex		0000	freedmr-spain.duckdns.org		passw0rd	62030
@@ -985,7 +988,6 @@ FD_FR_LOIRE			0000	loire.freedmr.fr			PASSWORD	62031
 ######################################################################################################
 # Name				DMR-ID	IP/Hostname				Password	Port #
 ######################################################################################################
-FD_GT_SYSTEM_X			0000	gt.freestar.network			passw0rd	62031
 ######################################################################################################
 #
 #				HBLink/FreeDMR Italy IT Hosts Below
@@ -1038,7 +1040,6 @@ HB_IT_ARI-RE_FVG_77		0000	hblink.arifvg.it			PASSWORD	55577
 ######################################################################################################
 # Name				DMR-ID	IP/Hostname				Password	Port #
 ######################################################################################################
-FD_MX_SYSTEM_X			0000	mx.freestar.network			passw0rd	62031
 ######################################################################################################
 #
 #				HBLink/FreeDMR New Zealand NZ Hosts Below
@@ -1046,7 +1047,6 @@ FD_MX_SYSTEM_X			0000	mx.freestar.network			passw0rd	62031
 ######################################################################################################
 # Name				DMR-ID	IP/Hostname				Password	Port #
 ######################################################################################################
-FD_NZ_SYSTEM_X			0000	nzdmr.freestar.network 			passw0rd	62031
 FD_NZ_KiwiDMR_DMO		0000	dmrserver.drgnz.com			passw0rd	62031
 ######################################################################################################
 #
@@ -1124,8 +1124,6 @@ HB_RO_EMCOMM_DUP		0000	hblink.dstar-yo.ro			passw0rd	55556
 ######################################################################################################
 # Name				DMR-ID	IP/Hostname				Password	Port #
 ######################################################################################################
-FD_EU_SYSTEM_X			0000	eu.freestar.network			passw0rd	62031
-FD_SE_EU_SYSTEM_X		0000	eu.freestar.network			passw0rd	62031
 ######################################################################################################
 #
 # 				HBLink/FreeDMR United Kingdom GB Hosts Below
@@ -1134,8 +1132,6 @@ FD_SE_EU_SYSTEM_X		0000	eu.freestar.network			passw0rd	62031
 # Name				DMR-ID	IP/Hostname				Password	Port #
 ######################################################################################################
 FD_GB_FreeSTAR_UK		0000	dmr.freestar.network			passw0rd	62031
-FD_GB_UK1_SYSTEM_X		0000	dmr.freestar.network			passw0rd	62031
-FD_GB_SC_SYSTEM_X		0000	sc.freestar.network			passw0rd	62031
 FD_GB_UK_CQ-NORTH		0000	dmr.cqnorth.org.uk			passw0rd	62031
 FD_GB_Scout_Radio_Network	0000	dmr.scoutradio.network			passw0rd	55555
 ######################################################################################################
@@ -1147,7 +1143,6 @@ FD_GB_Scout_Radio_Network	0000	dmr.scoutradio.network			passw0rd	55555
 ######################################################################################################
 FD_US_CQ-USA-East		0000	usa-east.cq-usa.net			passw0rd	62031
 FD_US_CQ-USA-West		0000	usa-west.cq-usa.net			passw0rd	62031
-FD_US_USA1_SYSTEM_X		0000	usa.freestar.network			passw0rd	62031
 FD_US_FB_Network		0000	fbdmr.network				passw0rd	62031
 HB_US_Alabama_DMO		0000	96.47.95.121				passw0rd	62031
 HB_US_Black_Swamp_WA8SRV	0000	71.74.65.22				passw0rd	62030
@@ -1165,10 +1160,8 @@ HB_US_PINOY-LINK_Network	0000	144.202.111.55				passw0rd 	55550
 HB_US_KAPIHAN_Network		0000	45.32.129.89				passw0rd	55550
 HB_US_WNY-DIGITAL_Network	0000	hs.wny-digital.network			passw0rd	62031
 ######################################################################################################
-SystemX_Europe	0000	eu.freestar.network	passw0rd	62031
 SystemX_Spain	0000	es.freestar.network	passw0rd	62031
 SystemX_United_Kingdom	0000	dmr.freestar.network	passw0rd	62031
-SystemX_Scotland	0000	sc.freestar.network	passw0rd	62031
 SystemX_United_States	0000	usa.freestar.network	passw0rd	62031
 SystemX_New_Zealand	0000	nzdmr.freestar.network	passw0rd	62031
 SystemX_Guatemala	0000	gt.freestar.network	passw0rd	62031
