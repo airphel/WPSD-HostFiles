@@ -98,8 +98,8 @@
 [
   {
     "fqdn": "perth.aprs2.net",
-    "ipv4": "180.150.86.198",
-    "ipv6": "2403:580f:53::5611",
+    "ipv4": "203.29.243.68",
+    "ipv6": "2404:9400:430a:a383:4480:29ff:fec7:8ab6",
     "member": [
       "aunz.aprs2.net",
       "rotate.aprs2.net"
