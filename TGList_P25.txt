@@ -1,7 +1,7 @@
 # TGList_P25.txt downloaded from http://www.pistar.uk/downloads/TGList_P25.txt
 # sourced from https://raw.githubusercontent.com/g4klx/P25Clients/master/P25Gateway/P25Hosts.txt
 # Please report issues at https://www.facebook.com/groups/pistarusergroup/
-# File updated on Saturday 3rd of December 2022
+# File updated on Thursday 29th of December 2022
 #
 # Dest ID;Name;Description
 #
@@ -54,6 +54,7 @@
 3026;P25-REF-3026;P25-REF-3026
 3142;P25-REF-3142;P25-REF-3142
 3147;P25-REF-3147;P25-REF-3147
+3149;P25-REF-3149;P25-REF-3149
 3160;P25-REF-3160;P25-REF-3160
 3300;P25-REF-3300;P25-REF-3300
 3340;P25-REF-3340;P25-REF-3340
@@ -143,6 +144,7 @@
 26285;P25-REF-26285;P25-REF-26285
 26444;P25-REF-26444;P25-REF-26444
 26538;P25-REF-26538;P25-REF-26538
+27565;P25-REF-27565;P25-REF-27565
 28299;P25-USA-RAGCHEW;P25-USA-RAGCHEW
 29252;P25-REF-29252;P25-REF-29252
 30639;P25-USA-NORCAL;P25-USA-NORCAL

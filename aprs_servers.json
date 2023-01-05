@@ -99,7 +99,7 @@
   {
     "fqdn": "perth.aprs2.net",
     "ipv4": "203.29.243.68",
-    "ipv6": "2404:9400:430a:a383:4480:29ff:fec7:8ab6",
+    "ipv6": "2404:9400:430a:a383:9d80:af10:58b6:c2a3",
     "member": [
       "aunz.aprs2.net",
       "rotate.aprs2.net"
@@ -322,8 +322,8 @@
 [
   {
     "fqdn": "yyz.aprs2.net",
-    "ipv4": "137.220.55.17",
-    "ipv6": "2001:19f0:b001:8b3:5400:4ff:fe34:ddff",
+    "ipv4": "155.138.146.241",
+    "ipv6": "2001:19f0:b002:8f6:5400:4ff:fe3f:5199",
     "member": [
       "noam.aprs2.net",
       "rotate.aprs2.net"
