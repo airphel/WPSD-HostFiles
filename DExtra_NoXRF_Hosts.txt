@@ -1,3 +1,3 @@
 # DExtra_Hosts.txt downloaded from http://www.pistar.uk/downloads/DExtra_NoXRF_Hosts.txt
 # Please report issues at https://www.facebook.com/groups/pistarusergroup/
-# File updated on Thursday 5th of January 2023
+# File updated on Sunday 15th of January 2023

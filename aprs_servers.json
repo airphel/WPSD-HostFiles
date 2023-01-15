@@ -1268,7 +1268,7 @@
   {
     "fqdn": "edmonton.aprs2.net",
     "ipv4": "50.65.148.226",
-    "ipv6": "2604:3d09:7285:5100:5054:ff:fec7:382a",
+    "ipv6": "2604:3d09:726e:5a00:5054:ff:fec7:382a",
     "member": [
       "noam.aprs2.net",
       "rotate.aprs2.net"

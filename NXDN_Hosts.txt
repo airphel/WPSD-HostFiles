@@ -41,6 +41,7 @@
 2700	2700nxdn.ddns.net	41400
 2724	dmr.nrsi.ie	41400
 3023	ontxlink.hopto.org	41400
+3120	nxdn.pa7lim.nl	41400
 3142	3.215.215.169	41402
 3160	nxdn.k6jwn.org	41400
 3300	nxdn3300.from-pr.com	41400

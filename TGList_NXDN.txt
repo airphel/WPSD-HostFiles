@@ -1,7 +1,7 @@
 # TGList_NXDN.txt downloaded from http://www.pistar.uk/downloads/TGList_NXDN.txt
 # sourced from https://raw.githubusercontent.com/g4klx/NXDNClients/master/NXDNGateway/NXDNHosts.txt
 # Please report issues at https://www.facebook.com/groups/pistarusergroup/
-# File updated on Friday 18th of November 2022
+# File updated on Tuesday 10th of January 2023
 #
 # Dest ID;Name;Description
 #
@@ -50,6 +50,7 @@
 2700;NX-REF-2700;NX-REF-2700
 2724;NX-REF-2724;NX-REF-2724
 3023;NX-REF-3023;NX-REF-3023
+3120;NX-REF-3120;NX-REF-3120
 3142;NX-REF-3142;NX-REF-3142
 3160;NX-REF-3160;NX-REF-3160
 3300;NX-REF-3300;NX-REF-3300
