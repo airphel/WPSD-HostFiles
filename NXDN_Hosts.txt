@@ -17,6 +17,7 @@
 910	nxdn910.freeddns.org	41400
 911	nxdn.k2cop.com	41400
 914	914.nxdn.es	41400
+926	urf.kf3rry.org	41400
 987	nxdn.pa7lim.nl	41400
 1007	43773.kb5rir.com	41400
 1200	florida.nxref.org	41400
@@ -45,9 +46,8 @@
 3142	3.215.215.169	41402
 3160	nxdn.k6jwn.org	41400
 3300	nxdn3300.from-pr.com	41400
-3400	w2btn.dmrnet.net	41400
+3400	3400.ddns.net	41400
 5057	45.248.50.37	41400
-5621	ord1.w3fur.radio	41400
 7144	nxdn.pa7lim.nl	41400
 7160	nxdn.dmr-peru.net	41400
 7225	argnxdn.ddnsfree.com	41400
@@ -67,7 +67,7 @@
 17000	107.191.48.144	41400
 20000	89.185.97.38	41400
 20201	stargate-dmr.net	41400
-20222	nxdn-frn.ddns.net	41400
+20222	greece-frn.ddns.net	41400
 20328	nxdn.projekt-pegasus.net	41400
 20330	81.169.173.132	41400
 20333	nxdn02.bzsax.de	41400
@@ -125,7 +125,7 @@
 31238	nxdn.foxhole.radio	41400
 31257	nxdn.w0jay.com	41400
 31264	nxdn.dudetronics.com	41400
-31266	dgtlcom.dyndns.org	41400
+31266	urf734.dgtlcom.net	41400
 31340	cnjham.msmts.com	41400
 31403	3.208.70.29	41400
 31425	70.44.20.24	41400
@@ -164,7 +164,6 @@
 52910	nxdn910x.mywire.org	41400
 53099	203.86.206.49	41400
 56987	server.captsmokey.com	41400
-62869	lax1.w3fur.radio	41400
 63600	xlx.ham.lv	41400
 64003	51.77.213.200	41400
 65000	176.9.1.168	41400

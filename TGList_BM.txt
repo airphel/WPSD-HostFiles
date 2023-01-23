@@ -2,7 +2,7 @@
 # All BrandMeister TG and Reflectors for use with YSF2DMR
 # Sourced from https://api.brandmeister.network/v2/talkgroup
 # Please report issues at https://www.facebook.com/groups/pistarusergroup/
-# File updated on Thursday 5th of January 2023
+# File updated on Monday 23rd of January 2023
 #
 # Dest ID;Option;Name;Description
 #
@@ -765,7 +765,7 @@
 24472;0;FI-OH7-PKA;TG24472
 24480;0;FI-OH8-QSY;TG24480
 24490;0;FI-OH9-QSY;TG24490
-24706;0;XLX636;TG24706
+24706;0;LATVIAN-MULTIMODE;TG24706
 24804;0;ES4-NARVA-REGION;TG24804
 24810;0;ESTONIA-RUS/HAM-DMREE;TG24810
 25011;0;RUSSIAN-TECH;TG25011
@@ -1005,7 +1005,6 @@
 31002;0;NET-TALKGROUP-2;TG31002
 31010;0;ALABAMA-LINK;TG31010
 31011;0;GULF-COAST-DMR;TG31011
-31012;0;QUADNET;TG31012
 31013;0;ALERT-K4NWS;TG31013
 31014;0;HSV;TG31014
 31015;0;CENTRAL-ALABAMA;TG31015

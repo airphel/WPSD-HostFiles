@@ -1,283 +1,5 @@
 [
   {
-    "fqdn": "greece.aprs2.net",
-    "ipv4": "185.4.132.215",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2GREECE",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "bc.aprs2.net",
-    "ipv4": "44.135.208.225",
-    "ipv6": null,
-    "member": [
-      "noam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2BC",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "first.aprs.net",
-    "ipv4": "148.251.228.231",
-    "ipv6": "2a01:4f8:160:6065::231",
-    "member": [
-      "rotate.aprs.net"
-    ],
-    "id": "FIRST"
-  },
-  null
-]
-[
-  {
-    "fqdn": "italyn.aprs2.net",
-    "ipv4": "45.66.145.33",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2ITALYN",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "dallas.aprs2.net",
-    "ipv4": "204.110.191.232",
-    "ipv6": null,
-    "member": [
-      "noam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2DALLAS",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "fukuoka.aprs2.net",
-    "ipv4": "150.95.137.86",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "japan.aprs2.net",
-      "asia.aprs2.net"
-    ],
-    "id": "T2FUKUOKA",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "texas.aprs2.net",
-    "ipv4": "205.209.228.99",
-    "ipv6": null,
-    "member": [
-      "noam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2TEXAS",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "perth.aprs2.net",
-    "ipv4": "203.29.243.68",
-    "ipv6": "2404:9400:430a:a383:9d80:af10:58b6:c2a3",
-    "member": [
-      "aunz.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2PERTH",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "fuzhou.aprs2.net",
-    "ipv4": "43.245.198.229",
-    "ipv6": null,
-    "member": [
-      "china.aprs2.net",
-      "rotate.aprs2.net",
-      "asia.aprs2.net"
-    ],
-    "id": "T2FZ",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "gyor.aprs2.net",
-    "ipv4": "62.77.224.245",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net",
-      "hungary.aprs2.net"
-    ],
-    "id": "T2GYOR",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "ukraine.aprs2.net",
-    "ipv4": "89.185.8.55",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2UKRAINE",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "cwop2.aprs.net",
-    "out_of_service": true,
-    "ipv4": "137.26.70.99",
-    "ipv6": null,
-    "member": [
-      "cwop.aprs.net"
-    ],
-    "id": "CWOP-2"
-  },
-  null
-]
-[
-  {
-    "fqdn": "mexico.aprs2.net",
-    "ipv4": "138.122.96.102",
-    "ipv6": null,
-    "member": [
-      "soam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2MEXICO",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "nala.aprs2.net",
-    "ipv4": "173.242.239.99",
-    "ipv6": null,
-    "member": [
-      "noam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2NALA",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "f5kav.aprs2.net",
-    "ipv4": "164.132.128.212",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2F5KAV",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "puertorico.aprs2.net",
-    "ipv4": "100.16.166.188",
-    "ipv6": null,
-    "member": [
-      "soam.aprs2.net",
-      "noam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2PR",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "hun.aprs2.net",
-    "ipv4": "185.43.207.219",
-    "ipv6": "2a01:6ee0:1::15:1",
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net",
-      "hungary.aprs2.net"
-    ],
-    "id": "T2HUN",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "third.aprs.net",
-    "ipv4": "85.188.1.114",
-    "ipv6": "2001:67c:15c:1::114",
-    "member": [
-      "rotate.aprs.net"
-    ],
-    "id": "THIRD"
-  },
-  null
-]
-[
-  {
-    "fqdn": "sixth.aprs.net",
-    "ipv4": "45.76.98.200",
-    "ipv6": "2001:19f0:7001:783:5400:ff:fe33:e13b",
-    "member": [
-      "rotate.aprs.net"
-    ],
-    "id": "SIXTH"
-  },
-  null
-]
-[
-  {
-    "fqdn": "belgium.aprs2.net",
-    "ipv4": "46.18.33.196",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2BELGIUM",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
     "fqdn": "uk.aprs2.net",
     "ipv4": "51.195.137.111",
     "ipv6": "2001:41d0:801:2000::118c",
@@ -292,400 +14,30 @@
 ]
 [
   {
-    "fqdn": "erfurt.aprs2.net",
-    "ipv4": "195.190.142.207",
+    "fqdn": "nuremberg.aprs2.net",
+    "ipv4": "78.47.200.124",
+    "ipv6": "2a01:4f8:a0:9381:6483:28ff:fec5:be3c",
+    "member": [
+      "germany.aprs2.net",
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2NUERNBG",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "koblenz.aprs2.net",
+    "ipv4": "217.160.179.143",
     "ipv6": null,
     "member": [
       "germany.aprs2.net",
       "rotate.aprs2.net",
       "euro.aprs2.net"
     ],
-    "id": "T2ERFURT",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "netherlands.aprs2.net",
-    "ipv4": "5.2.72.156",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2NL",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "yyz.aprs2.net",
-    "ipv4": "155.138.146.241",
-    "ipv6": "2001:19f0:b002:8f6:5400:4ff:fe3f:5199",
-    "member": [
-      "noam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2CAEAST",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "poland.aprs2.net",
-    "ipv4": "46.21.223.230",
-    "ipv6": "2a02:2928:a::19",
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2POLAND",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "fourth.aprs.net",
-    "ipv4": "192.104.234.220",
-    "ipv6": "2620:128:2000::220",
-    "member": [
-      "rotate.aprs.net"
-    ],
-    "id": "FOURTH"
-  },
-  null
-]
-[
-  {
-    "fqdn": "eighth.aprs.net",
-    "ipv4": "205.233.35.52",
-    "ipv6": "2620:64::5054:ff:fe12:b76a",
-    "member": [
-      "rotate.aprs.net"
-    ],
-    "id": "EIGHTH"
-  },
-  null
-]
-[
-  {
-    "fqdn": "cwop4.aprs.net",
-    "ipv4": "143.244.144.248",
-    "ipv6": "2604:a880:400:d0::1cf8:c001",
-    "member": [
-      "cwop.aprs.net"
-    ],
-    "id": "CWOP-4"
-  },
-  null
-]
-[
-  {
-    "fqdn": "euskadi.aprs2.net",
-    "ipv4": "185.193.11.155",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2EUSKADI",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "mazury.aprs2.net",
-    "ipv4": "89.228.59.72",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2MAZURY",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "ycw.aprs2.net",
-    "ipv4": "167.114.2.176",
-    "ipv6": null,
-    "member": [
-      "noam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2CAWEST",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "taiwan.aprs2.net",
-    "ipv4": "133.130.88.194",
-    "ipv6": "2400:8500:1301:739:133:130:88:194",
-    "member": [
-      "rotate.aprs2.net",
-      "asia.aprs2.net"
-    ],
-    "id": "T2TAIWAN",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "hub4.aprs2.net",
-    "ipv4": "205.209.228.94",
-    "ipv6": null,
-    "member": [
-      "hubs.aprs2.net"
-    ],
-    "id": "T2HUB4"
-  },
-  null
-]
-[
-  {
-    "fqdn": "frankfurt.aprs2.net",
-    "ipv4": "3.75.54.130",
-    "ipv6": null,
-    "member": [
-      "germany.aprs2.net",
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2FRA",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "radom.aprs2.net",
-    "ipv4": "193.106.216.154",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2RADOM",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "eisberg.aprs2.net",
-    "ipv4": "88.198.88.18",
-    "ipv6": "2a01:4f8:c17:12c2::2",
-    "member": [
-      "germany.aprs2.net",
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2EISBERG",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "satgates-de1.aprs2.net",
-    "ipv4": "148.251.228.225",
-    "ipv6": "2a01:4f8:160:6065::225",
-    "member": [
-      "satgates.aprs2.net"
-    ],
-    "id": "T2SATGDE1",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "ffl.aprs2.net",
-    "ipv4": "188.68.40.94",
-    "ipv6": null,
-    "member": [
-      "germany.aprs2.net",
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2FFL",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "france.aprs2.net",
-    "ipv4": "149.202.150.167",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2FRANCE",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "hub1.aprs2.net",
-    "out_of_service": true,
-    "ipv4": "185.18.149.99",
-    "ipv6": "2a04:b80:1:1::2",
-    "member": [
-      "hubs.aprs2.net"
-    ],
-    "id": "T2HUB1"
-  },
-  null
-]
-[
-  {
-    "fqdn": "vancouver.aprs2.net",
-    "ipv4": "198.50.198.139",
-    "ipv6": null,
-    "member": [
-      "noam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2VAN",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "tokyo3.aprs2.net",
-    "ipv4": "108.61.180.46",
-    "ipv6": "2001:19f0:7001:3f2d:5400:1ff:feca:2589",
-    "member": [
-      "rotate.aprs2.net",
-      "japan.aprs2.net",
-      "asia.aprs2.net"
-    ],
-    "id": "T2TOKYO3",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "brazil.aprs2.net",
-    "ipv4": "104.41.52.178",
-    "ipv6": null,
-    "member": [
-      "soam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2BRAZIL",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "italy.aprs2.net",
-    "ipv4": "94.33.51.3",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2ITALY",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "oregon.aprs2.net",
-    "ipv4": "199.204.38.35",
-    "ipv6": null,
-    "member": [
-      "noam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2OREGON",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "alberta.aprs2.net",
-    "ipv4": "44.184.136.10",
-    "ipv6": null,
-    "member": [
-      "noam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2ALBERTA",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "northwest.aprs2.net",
-    "ipv4": "44.24.241.98",
-    "ipv6": null,
-    "member": [
-      "noam.aprs2.net",
-      "ssl.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2USANW",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "hub2.aprs2.net",
-    "ipv4": "204.17.39.172",
-    "ipv6": "2605:8e00:12:1::c",
-    "member": [
-      "hubs.aprs2.net"
-    ],
-    "id": "T2HUB2"
-  },
-  null
-]
-[
-  {
-    "fqdn": "denmark.aprs2.net",
-    "ipv4": "91.210.59.134",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2DENMARK",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "rdu.aprs2.net",
-    "ipv4": "192.104.234.219",
-    "ipv6": "2620:128:2000::219",
-    "member": [
-      "noam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2RDU",
+    "id": "T2KOBLENZ",
     "show_members": 1
   },
   null
@@ -707,14 +59,53 @@
 ]
 [
   {
-    "fqdn": "t2stras.aprs2.net",
-    "ipv4": "51.210.15.145",
+    "fqdn": "first.aprs.net",
+    "ipv4": "148.251.228.231",
+    "ipv6": "2a01:4f8:160:6065::231",
+    "member": [
+      "rotate.aprs.net"
+    ],
+    "id": "FIRST"
+  },
+  null
+]
+[
+  {
+    "fqdn": "ninth.aprs.net",
+    "ipv4": "205.233.35.46",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs.net"
+    ],
+    "id": "NINTH"
+  },
+  null
+]
+[
+  {
+    "fqdn": "frankfurt.aprs2.net",
+    "ipv4": "3.75.54.130",
+    "ipv6": null,
+    "member": [
+      "germany.aprs2.net",
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2FRA",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "italyn.aprs2.net",
+    "ipv4": "45.66.145.33",
     "ipv6": null,
     "member": [
       "rotate.aprs2.net",
       "euro.aprs2.net"
     ],
-    "id": "T2STRAS",
+    "id": "T2ITALYN",
     "show_members": 1
   },
   null
@@ -729,6 +120,135 @@
       "euro.aprs2.net"
     ],
     "id": "T2AUSTRIA",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "denmark.aprs2.net",
+    "ipv4": "91.210.59.134",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2DENMARK",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "mexico.aprs2.net",
+    "ipv4": "138.122.96.102",
+    "ipv6": null,
+    "member": [
+      "soam.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2MEXICO",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "greece.aprs2.net",
+    "ipv4": "185.4.132.215",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2GREECE",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "euskadi.aprs2.net",
+    "ipv4": "185.193.11.155",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2EUSKADI",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "spain.aprs2.net",
+    "ipv4": "84.232.6.113",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2SPAIN",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "maine.aprs2.net",
+    "out_of_service": true,
+    "ipv4": "216.195.129.35",
+    "ipv6": null,
+    "member": [
+      "noam.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2MAINE",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "erfurt.aprs2.net",
+    "ipv4": "195.190.142.207",
+    "ipv6": null,
+    "member": [
+      "germany.aprs2.net",
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2ERFURT",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "hakata.aprs2.net",
+    "ipv4": "110.54.43.135",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "japan.aprs2.net",
+      "asia.aprs2.net"
+    ],
+    "id": "T2HAKATA",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "szczecin.aprs2.net",
+    "ipv4": "62.69.192.233",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2POLNW",
     "show_members": 1
   },
   null
@@ -763,140 +283,54 @@
 ]
 [
   {
-    "fqdn": "norway.aprs2.net",
-    "ipv4": "44.141.143.40",
-    "ipv6": null,
+    "fqdn": "satgates-de1.aprs2.net",
+    "ipv4": "148.251.228.225",
+    "ipv6": "2a01:4f8:160:6065::225",
     "member": [
-      "nordic.aprs2.net",
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
+      "satgates.aprs2.net"
     ],
-    "id": "T2NORWAY",
+    "id": "T2SATGDE1",
     "show_members": 1
   },
   null
 ]
 [
   {
-    "fqdn": "aprsnz.aprs2.net",
-    "ipv4": "203.109.147.134",
-    "ipv6": null,
-    "member": [
-      "aunz.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2ZL",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "hk.aprs2.net",
-    "ipv4": "119.9.79.69",
-    "ipv6": "2401:1800:7800:101:be76:4eff:fe1c:997",
-    "member": [
-      "china.aprs2.net",
-      "rotate.aprs2.net",
-      "asia.aprs2.net"
-    ],
-    "id": "T2HK",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "gb.aprs2.net",
-    "ipv4": "192.146.137.137",
-    "ipv6": "2001:67c:26b4:ff00:250:56ff:fe80:2348",
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2GB",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "cwop6.aprs.net",
-    "ipv4": "44.235.86.44",
-    "ipv6": null,
+    "fqdn": "cwop5.aprs.net",
+    "ipv4": "85.188.1.27",
+    "ipv6": "2001:67c:15c:1::27",
     "member": [
       "cwop.aprs.net"
     ],
-    "id": "CWOP-6"
+    "id": "CWOP-5"
   },
   null
 ]
 [
   {
-    "fqdn": "cwop3.aprs.net",
-    "ipv4": "44.155.254.4",
+    "fqdn": "gyor.aprs2.net",
+    "ipv4": "62.77.224.245",
     "ipv6": null,
     "member": [
-      "cwop.aprs.net"
-    ],
-    "id": "CWOP-3"
-  },
-  null
-]
-[
-  {
-    "fqdn": "raqi.aprs2.net",
-    "ipv4": "66.159.41.113",
-    "ipv6": null,
-    "member": [
-      "noam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2QUEBEC",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "koblenz.aprs2.net",
-    "ipv4": "217.160.179.143",
-    "ipv6": null,
-    "member": [
-      "germany.aprs2.net",
       "rotate.aprs2.net",
-      "euro.aprs2.net"
+      "euro.aprs2.net",
+      "hungary.aprs2.net"
     ],
-    "id": "T2KOBLENZ",
+    "id": "T2GYOR",
     "show_members": 1
   },
   null
 ]
 [
   {
-    "fqdn": "russia.aprs2.net",
-    "ipv4": "194.186.45.251",
+    "fqdn": "london.aprs2.net",
+    "ipv4": "51.195.229.169",
     "ipv6": null,
     "member": [
       "rotate.aprs2.net",
       "euro.aprs2.net"
     ],
-    "id": "T2RUSSIA",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "nanjing.aprs2.net",
-    "ipv4": "156.251.162.84",
-    "ipv6": null,
-    "member": [
-      "china.aprs2.net",
-      "rotate.aprs2.net",
-      "asia.aprs2.net"
-    ],
-    "id": "T2NANJING",
+    "id": "T2LONDON",
     "show_members": 1
   },
   null
@@ -918,15 +352,96 @@
 ]
 [
   {
-    "fqdn": "italy1.aprs2.net",
-    "ipv4": "193.42.134.69",
+    "fqdn": "alberta.aprs2.net",
+    "ipv4": "44.184.136.10",
     "ipv6": null,
     "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
+      "noam.aprs2.net",
+      "rotate.aprs2.net"
     ],
-    "id": "T2ITALY1",
+    "id": "T2ALBERTA",
     "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "nala.aprs2.net",
+    "ipv4": "173.242.239.99",
+    "ipv6": null,
+    "member": [
+      "noam.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2NALA",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "cwop3.aprs.net",
+    "ipv4": "44.155.254.4",
+    "ipv6": null,
+    "member": [
+      "cwop.aprs.net"
+    ],
+    "id": "CWOP-3"
+  },
+  null
+]
+[
+  {
+    "fqdn": "yyz.aprs2.net",
+    "ipv4": "155.138.146.241",
+    "ipv6": "2001:19f0:b002:8f6:5400:4ff:fe3f:5199",
+    "member": [
+      "noam.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2CAEAST",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "tasmania.aprs2.net",
+    "ipv4": "45.248.50.37",
+    "ipv6": null,
+    "member": [
+      "aunz.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2TAS",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "tokyo3.aprs2.net",
+    "ipv4": "108.61.180.46",
+    "ipv6": "2001:19f0:7001:3f2d:5400:1ff:feca:2589",
+    "member": [
+      "rotate.aprs2.net",
+      "japan.aprs2.net",
+      "asia.aprs2.net"
+    ],
+    "id": "T2TOKYO3",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "cwop4.aprs.net",
+    "ipv4": "143.244.144.248",
+    "ipv6": "2604:a880:400:d0::1cf8:c001",
+    "member": [
+      "cwop.aprs.net"
+    ],
+    "id": "CWOP-4"
   },
   null
 ]
@@ -946,94 +461,84 @@
 ]
 [
   {
-    "fqdn": "fifth.aprs.net",
-    "ipv4": "44.52.120.40",
-    "ipv6": "2001:4830:c170::2c34:7828",
-    "member": [
-      "rotate.aprs.net"
-    ],
-    "id": "FIFTH"
-  },
-  null
-]
-[
-  {
-    "fqdn": "czech.aprs2.net",
-    "ipv4": "91.205.92.26",
+    "fqdn": "romania.aprs2.net",
+    "ipv4": "86.123.190.5",
     "ipv6": null,
     "member": [
       "rotate.aprs2.net",
       "euro.aprs2.net"
     ],
-    "id": "T2CZECH",
+    "id": "T2ROMANIA",
     "show_members": 1
   },
   null
 ]
 [
   {
-    "fqdn": "maine.aprs2.net",
-    "out_of_service": true,
-    "ipv4": "216.195.129.35",
+    "fqdn": "bio.aprs2.net",
+    "ipv4": "82.223.33.109",
+    "ipv6": "2001:ba0:1800:80a4::1",
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2BIO",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "bc.aprs2.net",
+    "ipv4": "44.135.208.225",
     "ipv6": null,
     "member": [
       "noam.aprs2.net",
       "rotate.aprs2.net"
     ],
-    "id": "T2MAINE",
+    "id": "T2BC",
     "show_members": 1
   },
   null
 ]
 [
   {
-    "fqdn": "cwop7.aprs.net",
-    "ipv4": "54.200.219.161",
-    "ipv6": null,
+    "fqdn": "sjc.aprs2.net",
+    "ipv4": "44.10.10.10",
+    "ipv6": "2607:7c80:54:a::4410",
     "member": [
-      "cwop.aprs.net"
+      "noam.aprs2.net",
+      "rotate.aprs2.net"
     ],
-    "id": "CWOP-7"
-  },
-  null
-]
-[
-  {
-    "fqdn": "ninth.aprs.net",
-    "ipv4": "205.233.35.46",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs.net"
-    ],
-    "id": "NINTH"
-  },
-  null
-]
-[
-  {
-    "fqdn": "london.aprs2.net",
-    "ipv4": "51.195.229.169",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2LONDON",
+    "id": "T2SJC",
     "show_members": 1
   },
   null
 ]
 [
   {
-    "fqdn": "osaka.aprs2.net",
-    "ipv4": "219.94.253.59",
-    "ipv6": "2403:3a00:202:1202:219:94:253:59",
+    "fqdn": "aprsnz.aprs2.net",
+    "ipv4": "203.109.147.134",
+    "ipv6": null,
+    "member": [
+      "aunz.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2ZL",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "taiwan.aprs2.net",
+    "ipv4": "133.130.88.194",
+    "ipv6": "2400:8500:1301:739:133:130:88:194",
     "member": [
       "rotate.aprs2.net",
-      "japan.aprs2.net",
       "asia.aprs2.net"
     ],
-    "id": "T2OSAKA",
+    "id": "T2TAIWAN",
     "show_members": 1
   },
   null
@@ -1055,43 +560,14 @@
 ]
 [
   {
-    "fqdn": "sjc.aprs2.net",
-    "ipv4": "44.10.10.10",
-    "ipv6": "2607:7c80:54:a::4410",
+    "fqdn": "russia.aprs2.net",
+    "ipv4": "194.186.45.251",
+    "ipv6": null,
     "member": [
-      "noam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2SJC",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "satgates-us1.aprs2.net",
-    "out_of_service": true,
-    "ipv4": "198.137.202.9",
-    "ipv6": "2607:7c80:54:1::9",
-    "member": [
-      "satgates.aprs2.net"
-    ],
-    "id": "T2SATGUS1",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "lausitz.aprs2.net",
-    "ipv4": "94.130.143.160",
-    "ipv6": "2a01:4f8:13b:2c95::2",
-    "member": [
-      "germany.aprs2.net",
       "rotate.aprs2.net",
       "euro.aprs2.net"
     ],
-    "id": "T2LAUSITZ",
+    "id": "T2RUSSIA",
     "show_members": 1
   },
   null
@@ -1113,6 +589,471 @@
 ]
 [
   {
+    "fqdn": "rdu.aprs2.net",
+    "ipv4": "192.104.234.219",
+    "ipv6": "2620:128:2000::219",
+    "member": [
+      "noam.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2RDU",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "eighth.aprs.net",
+    "ipv4": "205.233.35.52",
+    "ipv6": "2620:64::5054:ff:fe12:b76a",
+    "member": [
+      "rotate.aprs.net"
+    ],
+    "id": "EIGHTH"
+  },
+  null
+]
+[
+  {
+    "fqdn": "italy1.aprs2.net",
+    "ipv4": "193.42.134.69",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2ITALY1",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "seventh.aprs.net",
+    "out_of_service": true,
+    "ipv4": "129.15.108.113",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs.net"
+    ],
+    "id": "SEVENTH"
+  },
+  null
+]
+[
+  {
+    "fqdn": "mazury.aprs2.net",
+    "ipv4": "89.228.59.72",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2MAZURY",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "hun.aprs2.net",
+    "ipv4": "185.43.207.219",
+    "ipv6": "2a01:6ee0:1::15:1",
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net",
+      "hungary.aprs2.net"
+    ],
+    "id": "T2HUN",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "satgates-fi1.aprs2.net",
+    "ipv4": "85.188.1.178",
+    "ipv6": "2001:67c:15c:1::178",
+    "member": [
+      "satgates.aprs2.net"
+    ],
+    "id": "T2SATGFI1",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "tokyo.aprs2.net",
+    "ipv4": "219.111.2.53",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "japan.aprs2.net",
+      "asia.aprs2.net"
+    ],
+    "id": "T2TOKYO",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "fifth.aprs.net",
+    "ipv4": "44.52.120.40",
+    "ipv6": "2001:4830:c170::2c34:7828",
+    "member": [
+      "rotate.aprs.net"
+    ],
+    "id": "FIFTH"
+  },
+  null
+]
+[
+  {
+    "fqdn": "fourth.aprs.net",
+    "ipv4": "192.104.234.220",
+    "ipv6": "2620:128:2000::220",
+    "member": [
+      "rotate.aprs.net"
+    ],
+    "id": "FOURTH"
+  },
+  null
+]
+[
+  {
+    "fqdn": "lausitz.aprs2.net",
+    "ipv4": "94.130.143.160",
+    "ipv6": "2a01:4f8:13b:2c95::2",
+    "member": [
+      "germany.aprs2.net",
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2LAUSITZ",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "dallas.aprs2.net",
+    "ipv4": "204.110.191.232",
+    "ipv6": null,
+    "member": [
+      "noam.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2DALLAS",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "raqi.aprs2.net",
+    "ipv4": "66.159.41.113",
+    "ipv6": null,
+    "member": [
+      "noam.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2QUEBEC",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "poland.aprs2.net",
+    "ipv4": "46.21.223.230",
+    "ipv6": "2a02:2928:a::19",
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2POLAND",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "third.aprs.net",
+    "ipv4": "85.188.1.114",
+    "ipv6": "2001:67c:15c:1::114",
+    "member": [
+      "rotate.aprs.net"
+    ],
+    "id": "THIRD"
+  },
+  null
+]
+[
+  {
+    "fqdn": "sixth.aprs.net",
+    "ipv4": "45.76.98.200",
+    "ipv6": "2001:19f0:7001:783:5400:ff:fe33:e13b",
+    "member": [
+      "rotate.aprs.net"
+    ],
+    "id": "SIXTH"
+  },
+  null
+]
+[
+  {
+    "fqdn": "brazil.aprs2.net",
+    "ipv4": "104.41.52.178",
+    "ipv6": null,
+    "member": [
+      "soam.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2BRAZIL",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "sydney.aprs2.net",
+    "ipv4": "103.235.52.53",
+    "ipv6": "2406:c500:fff3::21",
+    "member": [
+      "aunz.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2SYDNEY",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "oregon.aprs2.net",
+    "ipv4": "199.204.38.35",
+    "ipv6": null,
+    "member": [
+      "noam.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2OREGON",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "radom.aprs2.net",
+    "ipv4": "193.106.216.154",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2RADOM",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "puertorico.aprs2.net",
+    "ipv4": "100.16.166.188",
+    "ipv6": null,
+    "member": [
+      "soam.aprs2.net",
+      "noam.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2PR",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "ycw.aprs2.net",
+    "ipv4": "167.114.2.176",
+    "ipv6": null,
+    "member": [
+      "noam.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2CAWEST",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "ireland.aprs2.net",
+    "ipv4": "44.155.254.15",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2IRELAND",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "eisberg.aprs2.net",
+    "ipv4": "88.198.88.18",
+    "ipv6": "2a01:4f8:c17:12c2::2",
+    "member": [
+      "germany.aprs2.net",
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2EISBERG",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "lodz.aprs2.net",
+    "ipv4": "51.83.138.92",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2POLC",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "gb.aprs2.net",
+    "ipv4": "192.146.137.137",
+    "ipv6": "2001:67c:26b4:ff00:250:56ff:fe80:2348",
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2GB",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "czech.aprs2.net",
+    "ipv4": "91.205.92.26",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2CZECH",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "edmonton.aprs2.net",
+    "ipv4": "50.65.148.226",
+    "ipv6": "2604:3d09:726e:5a00:5054:ff:fec7:382a",
+    "member": [
+      "noam.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2EDM",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "jakarta.aprs2.net",
+    "ipv4": "202.51.120.46",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "asia.aprs2.net"
+    ],
+    "id": "T2JKTP",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "hub4.aprs2.net",
+    "ipv4": "205.209.228.94",
+    "ipv6": null,
+    "member": [
+      "hubs.aprs2.net"
+    ],
+    "id": "T2HUB4"
+  },
+  null
+]
+[
+  {
+    "fqdn": "cwop6.aprs.net",
+    "ipv4": "44.235.86.44",
+    "ipv6": null,
+    "member": [
+      "cwop.aprs.net"
+    ],
+    "id": "CWOP-6"
+  },
+  null
+]
+[
+  {
+    "fqdn": "hub3.aprs2.net",
+    "ipv4": "198.71.61.201",
+    "ipv6": null,
+    "member": [
+      "hubs.aprs2.net"
+    ],
+    "id": "T2HUB3"
+  },
+  null
+]
+[
+  {
+    "fqdn": "swiss2.aprs2.net",
+    "ipv4": "176.10.105.218",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "swiss.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2SWISS2",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "nanjing.aprs2.net",
+    "ipv4": "156.251.162.84",
+    "ipv6": null,
+    "member": [
+      "china.aprs2.net",
+      "rotate.aprs2.net",
+      "asia.aprs2.net"
+    ],
+    "id": "T2NANJING",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
     "fqdn": "spain2.aprs2.net",
     "ipv4": "164.132.86.207",
     "ipv6": "2001:41d0:1004:5a0:164:132:86:207",
@@ -1121,6 +1062,271 @@
       "euro.aprs2.net"
     ],
     "id": "T2SPAIN2",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "cwop7.aprs.net",
+    "ipv4": "54.200.219.161",
+    "ipv6": null,
+    "member": [
+      "cwop.aprs.net"
+    ],
+    "id": "CWOP-7"
+  },
+  null
+]
+[
+  {
+    "fqdn": "lublin.aprs2.net",
+    "ipv4": "89.186.30.23",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net"
+    ],
+    "id": "T2LUBLIN",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "italy.aprs2.net",
+    "ipv4": "94.33.51.3",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2ITALY",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "hk.aprs2.net",
+    "ipv4": "119.9.79.69",
+    "ipv6": "2401:1800:7800:101:be76:4eff:fe1c:997",
+    "member": [
+      "china.aprs2.net",
+      "rotate.aprs2.net",
+      "asia.aprs2.net"
+    ],
+    "id": "T2HK",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "perth.aprs2.net",
+    "ipv4": "203.29.243.68",
+    "ipv6": "2404:9400:430a:a383:9d80:af10:58b6:c2a3",
+    "member": [
+      "aunz.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2PERTH",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "hub2.aprs2.net",
+    "ipv4": "204.17.39.172",
+    "ipv6": "2605:8e00:12:1::c",
+    "member": [
+      "hubs.aprs2.net"
+    ],
+    "id": "T2HUB2"
+  },
+  null
+]
+[
+  {
+    "fqdn": "cwop2.aprs.net",
+    "out_of_service": true,
+    "ipv4": "137.26.70.99",
+    "ipv6": null,
+    "member": [
+      "cwop.aprs.net"
+    ],
+    "id": "CWOP-2"
+  },
+  null
+]
+[
+  {
+    "fqdn": "northeast.aprs2.net",
+    "ipv4": "107.170.42.65",
+    "ipv6": null,
+    "member": [
+      "noam.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2USANE",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "osaka.aprs2.net",
+    "ipv4": "219.94.253.59",
+    "ipv6": "2403:3a00:202:1202:219:94:253:59",
+    "member": [
+      "rotate.aprs2.net",
+      "japan.aprs2.net",
+      "asia.aprs2.net"
+    ],
+    "id": "T2OSAKA",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "ukraine.aprs2.net",
+    "ipv4": "89.185.8.55",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2UKRAINE",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "ehime.aprs2.net",
+    "ipv4": "210.157.237.9",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "japan.aprs2.net",
+      "asia.aprs2.net"
+    ],
+    "id": "T2EHIME",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "netherlands.aprs2.net",
+    "ipv4": "5.2.72.156",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2NL",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "vancouver.aprs2.net",
+    "ipv4": "198.50.198.139",
+    "ipv6": null,
+    "member": [
+      "noam.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2VAN",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "texas.aprs2.net",
+    "ipv4": "205.209.228.99",
+    "ipv6": null,
+    "member": [
+      "noam.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2TEXAS",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "ffl.aprs2.net",
+    "ipv4": "188.68.40.94",
+    "ipv6": null,
+    "member": [
+      "germany.aprs2.net",
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2FFL",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "fuzhou.aprs2.net",
+    "ipv4": "43.245.198.229",
+    "ipv6": null,
+    "member": [
+      "china.aprs2.net",
+      "rotate.aprs2.net",
+      "asia.aprs2.net"
+    ],
+    "id": "T2FZ",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "f5kav.aprs2.net",
+    "ipv4": "164.132.128.212",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2F5KAV",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "hub1.aprs2.net",
+    "out_of_service": true,
+    "ipv4": "185.18.149.99",
+    "ipv6": "2a04:b80:1:1::2",
+    "member": [
+      "hubs.aprs2.net"
+    ],
+    "id": "T2HUB1"
+  },
+  null
+]
+[
+  {
+    "fqdn": "sapporo.aprs2.net",
+    "ipv4": "211.132.61.243",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "japan.aprs2.net",
+      "asia.aprs2.net"
+    ],
+    "id": "T2SAPPORO",
     "show_members": 1
   },
   null
@@ -1142,166 +1348,29 @@
 ]
 [
   {
-    "fqdn": "cwop5.aprs.net",
-    "ipv4": "85.188.1.27",
-    "ipv6": "2001:67c:15c:1::27",
+    "fqdn": "norway.aprs2.net",
+    "ipv4": "44.141.143.40",
+    "ipv6": null,
     "member": [
-      "cwop.aprs.net"
+      "nordic.aprs2.net",
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
     ],
-    "id": "CWOP-5"
+    "id": "T2NORWAY",
+    "show_members": 1
   },
   null
 ]
 [
   {
-    "fqdn": "ireland.aprs2.net",
-    "ipv4": "44.155.254.15",
+    "fqdn": "france.aprs2.net",
+    "ipv4": "57.128.11.1",
     "ipv6": null,
     "member": [
       "rotate.aprs2.net",
       "euro.aprs2.net"
     ],
-    "id": "T2IRELAND",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "spain.aprs2.net",
-    "ipv4": "84.232.6.113",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2SPAIN",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "tasmania.aprs2.net",
-    "ipv4": "45.248.50.37",
-    "ipv6": null,
-    "member": [
-      "aunz.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2TAS",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "nuremberg.aprs2.net",
-    "ipv4": "78.47.200.124",
-    "ipv6": "2a01:4f8:a0:9381:6483:28ff:fec5:be3c",
-    "member": [
-      "germany.aprs2.net",
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2NUERNBG",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "szczecin.aprs2.net",
-    "ipv4": "62.69.192.233",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2POLNW",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "lodz.aprs2.net",
-    "ipv4": "51.83.138.92",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2POLC",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "lublin.aprs2.net",
-    "ipv4": "89.186.30.23",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net"
-    ],
-    "id": "T2LUBLIN",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "northeast.aprs2.net",
-    "ipv4": "107.170.42.65",
-    "ipv6": null,
-    "member": [
-      "noam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2USANE",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "edmonton.aprs2.net",
-    "ipv4": "50.65.148.226",
-    "ipv6": "2604:3d09:726e:5a00:5054:ff:fec7:382a",
-    "member": [
-      "noam.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2EDM",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "bio.aprs2.net",
-    "ipv4": "82.223.33.109",
-    "ipv6": "2001:ba0:1800:80a4::1",
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2BIO",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "romania.aprs2.net",
-    "ipv4": "86.123.190.5",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2ROMANIA",
+    "id": "T2FRANCE",
     "show_members": 1
   },
   null
@@ -1322,6 +1391,63 @@
 ]
 [
   {
+    "fqdn": "satgates-us1.aprs2.net",
+    "out_of_service": true,
+    "ipv4": "198.137.202.9",
+    "ipv6": "2607:7c80:54:1::9",
+    "member": [
+      "satgates.aprs2.net"
+    ],
+    "id": "T2SATGUS1",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "northwest.aprs2.net",
+    "ipv4": "44.24.241.98",
+    "ipv6": null,
+    "member": [
+      "noam.aprs2.net",
+      "ssl.aprs2.net",
+      "rotate.aprs2.net"
+    ],
+    "id": "T2USANW",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "belgium.aprs2.net",
+    "ipv4": "46.18.33.196",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2BELGIUM",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
+    "fqdn": "t2stras.aprs2.net",
+    "ipv4": "51.210.15.145",
+    "ipv6": null,
+    "member": [
+      "rotate.aprs2.net",
+      "euro.aprs2.net"
+    ],
+    "id": "T2STRAS",
+    "show_members": 1
+  },
+  null
+]
+[
+  {
     "fqdn": "second.aprs.net",
     "ipv4": "204.87.183.30",
     "ipv6": "2607:7c80:54:6::30",
@@ -1334,141 +1460,15 @@
 ]
 [
   {
-    "fqdn": "tokyo.aprs2.net",
-    "ipv4": "219.111.2.53",
+    "fqdn": "fukuoka.aprs2.net",
+    "ipv4": "150.95.137.86",
     "ipv6": null,
     "member": [
       "rotate.aprs2.net",
       "japan.aprs2.net",
       "asia.aprs2.net"
     ],
-    "id": "T2TOKYO",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "sydney.aprs2.net",
-    "ipv4": "103.235.52.53",
-    "ipv6": "2406:c500:fff3::21",
-    "member": [
-      "aunz.aprs2.net",
-      "rotate.aprs2.net"
-    ],
-    "id": "T2SYDNEY",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "seventh.aprs.net",
-    "out_of_service": true,
-    "ipv4": "129.15.108.113",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs.net"
-    ],
-    "id": "SEVENTH"
-  },
-  null
-]
-[
-  {
-    "fqdn": "satgates-fi1.aprs2.net",
-    "ipv4": "85.188.1.178",
-    "ipv6": "2001:67c:15c:1::178",
-    "member": [
-      "satgates.aprs2.net"
-    ],
-    "id": "T2SATGFI1",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "hakata.aprs2.net",
-    "ipv4": "110.54.43.135",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "japan.aprs2.net",
-      "asia.aprs2.net"
-    ],
-    "id": "T2HAKATA",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "hub3.aprs2.net",
-    "ipv4": "198.71.61.201",
-    "ipv6": null,
-    "member": [
-      "hubs.aprs2.net"
-    ],
-    "id": "T2HUB3"
-  },
-  null
-]
-[
-  {
-    "fqdn": "ehime.aprs2.net",
-    "ipv4": "210.157.237.9",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "japan.aprs2.net",
-      "asia.aprs2.net"
-    ],
-    "id": "T2EHIME",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "swiss2.aprs2.net",
-    "ipv4": "176.10.105.218",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "swiss.aprs2.net",
-      "euro.aprs2.net"
-    ],
-    "id": "T2SWISS2",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "sapporo.aprs2.net",
-    "ipv4": "211.132.61.243",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "japan.aprs2.net",
-      "asia.aprs2.net"
-    ],
-    "id": "T2SAPPORO",
-    "show_members": 1
-  },
-  null
-]
-[
-  {
-    "fqdn": "jakarta.aprs2.net",
-    "ipv4": "202.51.120.46",
-    "ipv6": null,
-    "member": [
-      "rotate.aprs2.net",
-      "asia.aprs2.net"
-    ],
-    "id": "T2JKTP",
+    "id": "T2FUKUOKA",
     "show_members": 1
   },
   null

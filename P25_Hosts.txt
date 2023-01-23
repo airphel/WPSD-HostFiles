@@ -26,6 +26,7 @@
 865	knoxp25.k1lnx.net	41000
 891	p25.wny-digital.network	41000
 910	p25.freeddns.org	41000
+926	urf.kf3rry.org	41000
 927	927.org	41000
 994	misc.openreflector.com	41000
 1007	43773.kb5rir.com	41003
@@ -53,7 +54,6 @@
 4095	reflector.p25.link	41010
 5057	45.248.50.37	41000
 5205	5205.p25dvm.com	41000
-5621	ord1.w3fur.radio	41000
 6395	p25ref.nf9k.net	41000
 6969	69.118.62.100	41000
 7160	p25.dmr-peru.pe	41000
@@ -119,6 +119,7 @@
 22202	87.106.152.249	41000
 22212	p25gdo.duckdns.org	41000
 22221	dagobah.hblink.it	41000
+22222	NCC-1701-P25.ddns.net	41001
 22252	46.226.178.80	41000
 22258	94.177.173.53	41000
 22487	famiuse.ddns.net	41000
@@ -162,7 +163,8 @@
 31238	p25.foxhole.radio	41000
 31257	p25.w0jay.com	41000
 31264	p25.dudetronics.com	41000
-31266	dgtlcom.dyndns.org	41000
+31266	urf734.dgtlcom.net	41000
+31267	w8lrkp25.dyndns.org	41001
 31337	bridge.kc5jmj.com	41000
 31395	backbone.ad8g.net	41000
 31340	cnjham.msmts.com	41000
@@ -220,7 +222,6 @@
 55100	45.63.6.57	41000
 56987	server.captsmokey.com	41000
 60100	p25.signalseverywhere.com	41000
-62869	lax1.w3fur.radio	41000
 63600	xlx.ham.lv	41000
 65100	89.46.75.115	41000
 65101	km4hjj-p25.dyndns-server.com	41000
