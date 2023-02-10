@@ -338,6 +338,7 @@
 [
   {
     "fqdn": "swiss1.aprs2.net",
+    "out_of_service": true,
     "ipv4": "195.225.116.246",
     "ipv6": null,
     "member": [
@@ -421,6 +422,7 @@
 [
   {
     "fqdn": "tokyo3.aprs2.net",
+    "out_of_service": true,
     "ipv4": "108.61.180.46",
     "ipv6": "2001:19f0:7001:3f2d:5400:1ff:feca:2589",
     "member": [
@@ -1014,7 +1016,7 @@
   {
     "fqdn": "hub3.aprs2.net",
     "ipv4": "198.71.61.201",
-    "ipv6": null,
+    "ipv6": "2607:f1c0:1800:161::1",
     "member": [
       "hubs.aprs2.net"
     ],
@@ -1025,6 +1027,7 @@
 [
   {
     "fqdn": "swiss2.aprs2.net",
+    "out_of_service": true,
     "ipv4": "176.10.105.218",
     "ipv6": null,
     "member": [

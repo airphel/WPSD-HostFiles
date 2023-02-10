@@ -1,9 +1,11 @@
-112	nxdn.pa7lim.nl	41400
+112	112.nxdn.es	41401
 138	nxdn138.freeddns.org	41400
+148	nxdn.hs3tdi.com	41400
 149	nxdn.pwk.ac.th	41400
 202	hellaszone.com	41400
 204	nxdn.repeaters-haaglanden.nl	41400
-214	nxdn214.xreflector.es	41400
+214	214nxdn.nxdn.es	41401
+224	nxdn224.nxdn.es	41401
 226	nxdn.dstar-yo.ro	41400
 260	nxdn.hblink.pl	41400
 302	p25canada.hopto.org	41400
@@ -11,6 +13,7 @@
 530	zldigitalreflectors.hopto.org	41400
 545	70.44.20.24	41401
 707	707nxdn.kd0ioe.com	41400
+711	nxdn1.digitalevoice.nl	41400
 730	sdradio.cl	41400
 822	nxdn.dstarthailand.com	41400
 841	nxdn.mx0wvv.org	41400
@@ -18,19 +21,10 @@
 911	nxdn.k2cop.com	41400
 914	914.nxdn.es	41400
 926	urf.kf3rry.org	41400
-987	nxdn.pa7lim.nl	41400
 1007	43773.kb5rir.com	41400
 1200	florida.nxref.org	41400
-2140	nxdn.pa7lim.nl	41400
-2141	nxdn.pa7lim.nl	41400
-2142	nxdn.pa7lim.nl	41400
-2143	nxdn.pa7lim.nl	41400
-2144	nxdn.pa7lim.nl	41400
-2145	nxdn.pa7lim.nl	41400
-2146	nxdn.pa7lim.nl	41400
+2140	2140.nxdn.es	41402
 2147	2147.nxdn.es	41400
-2148	nxdn.pa7lim.nl	41400
-2149	nxdn.pa7lim.nl	41400
 2225	80.211.99.134	41400
 2231	nxdn.is0.org	41400
 2241	nxdn.grupporadiofirenze.net	41400
@@ -42,7 +36,6 @@
 2700	2700nxdn.ddns.net	41400
 2724	dmr.nrsi.ie	41400
 3023	ontxlink.hopto.org	41400
-3120	nxdn.pa7lim.nl	41400
 3142	3.215.215.169	41402
 3160	nxdn.k6jwn.org	41400
 3300	nxdn3300.from-pr.com	41400
@@ -51,7 +44,6 @@
 7144	nxdn.pa7lim.nl	41400
 7160	nxdn.dmr-peru.net	41400
 7225	argnxdn.ddnsfree.com	41400
-7227	nxdn.pa7lim.nl	41400
 7309	sdradio.cl	41401
 7487	uruguay.nxdn.es	41400
 9480	46.101.36.246	41400
@@ -74,9 +66,6 @@
 20421	dl-nordwest.com	41400
 20424	nxdn.pa7lim.nl	41400
 20945	dl1bh.ddns.net	41400
-21407	nxdn.pa7lim.nl	41400
-21410	nxdn21410.nxdn.es	41400
-21418	nxdn.pa7lim.nl	41400
 21426	nxdn.pa7lim.nl	41400
 21430	ea5urm-murcia.duckdns.org	41400
 21465	aderdigital.ddns.net	41400
@@ -115,8 +104,6 @@
 31031	ref.xlx310.com	41400
 31059	vidalianet.cbridge.net	41400
 31081	nxdn.we0fun.com	41400
-31088	54.191.50.212	41400
-31092	nxdn.alecwasserman.com	41400
 31121	dvse.dmrnet.net	41400
 31137	74.91.119.94	41400
 31171	illink.radiotechnology.xyz	41400
@@ -158,6 +145,8 @@
 50525	50525.nxref.org	41400
 50535	p25tg50535.vkradio.com	41400
 50599	nxdn.duckdns.org	41490
+51500	dx8wmg-ysf.ddns.net	41400
+51547	nxdn.kapihan.net	41400
 52000	nxdn.dtdxa.com	41400
 52032	hs3as.pwk.ac.th	41404
 52149	nxdn149d.pwk.ac.th	41408
